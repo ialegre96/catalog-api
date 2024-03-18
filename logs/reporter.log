@@ -1,0 +1,1649 @@
+2024-03-14T05:49:40.098Z - info: Initializing jsreport (version: 4.2.0, configuration file: none, nodejs: 18.16.1)
+2024-03-14T05:49:40.101Z - info: Searching for available extensions in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-14T05:49:40.104Z - info: Extensions location cache /tmp/jsreport/core/locations.json contains older information, crawling
+2024-03-14T05:49:40.291Z - info: Found 35 extension(s)
+2024-03-14T05:49:40.301Z - debug: Writing extension locations cache to /tmp/jsreport/core/locations.json
+2024-03-14T05:49:40.303Z - debug: Discovered 35 extensions
+2024-03-14T05:49:40.347Z - error: Error occurred during reporter init: Error: Error when loading extension express@2.8.1
+Error: Extension "express" is not compatible with "core" extension. Missing ".requires" information in "express" definition
+    at validateMinimalVersion (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/validateMinimalVersion.js:24:11)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:158:9)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:207:36)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:248:15)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:207:36)
+2024-03-14T11:44:09.920Z - info: Initializing jsreport (version: 4.2.0, configuration file: none, nodejs: 18.16.1)
+2024-03-14T11:44:09.922Z - info: Searching for available extensions in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-14T11:44:09.946Z - info: Extensions location cache /tmp/jsreport/core/locations.json contains older information, crawling
+2024-03-14T11:44:10.156Z - info: Found 35 extension(s)
+2024-03-14T11:44:10.168Z - debug: Writing extension locations cache to /tmp/jsreport/core/locations.json
+2024-03-14T11:44:10.169Z - debug: Discovered 35 extensions
+2024-03-14T11:44:10.170Z - warn: Filtering out duplicated extension "express" from /home/iesus/Documentos/Projects/generate-catalog/node_modules/jsreport-express, using /home/iesus/Documentos/Projects/generate-catalog/node_modules/jsreport-express
+2024-03-14T11:44:10.216Z - error: Error occurred during reporter init: Error: Error when loading extension express@2.8.1
+Error: Extension "express" is not compatible with "core" extension. Missing ".requires" information in "express" definition
+    at validateMinimalVersion (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/validateMinimalVersion.js:24:11)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:158:9)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:207:36)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:248:15)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:207:36)
+2024-03-14T11:48:57.156Z - info: Initializing jsreport (version: 4.2.0, configuration file: none, nodejs: 18.16.1)
+2024-03-14T11:48:57.158Z - info: Searching for available extensions in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-14T11:48:57.162Z - info: Extensions location cache contains up to date information, skipping crawling in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-14T11:48:57.166Z - info: Found 35 extension(s)
+2024-03-14T11:48:57.182Z - debug: Writing extension locations cache to /tmp/jsreport/core/locations.json
+2024-03-14T11:48:57.183Z - debug: Discovered 35 extensions
+2024-03-14T11:48:57.230Z - error: Error occurred during reporter init: Error: Error when loading extension express@2.8.1
+Error: Extension "express" is not compatible with "core" extension. Missing ".requires" information in "express" definition
+    at validateMinimalVersion (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/validateMinimalVersion.js:24:11)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:158:9)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:207:36)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:248:15)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:207:36)
+2024-03-14T11:52:56.591Z - info: Initializing jsreport (version: 4.2.0, configuration file: none, nodejs: 18.16.1)
+2024-03-14T11:52:56.593Z - info: Searching for available extensions in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-14T11:52:56.597Z - info: Extensions location cache contains up to date information, skipping crawling in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-14T11:52:56.600Z - info: Found 35 extension(s)
+2024-03-14T11:52:56.612Z - debug: Writing extension locations cache to /tmp/jsreport/core/locations.json
+2024-03-14T11:52:56.614Z - debug: Discovered 35 extensions
+2024-03-14T11:52:56.662Z - error: Error occurred during reporter init: Error: Error when loading extension express@2.8.1
+Error: Extension "express" is not compatible with "core" extension. Missing ".requires" information in "express" definition
+    at validateMinimalVersion (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/validateMinimalVersion.js:24:11)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:158:9)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:207:36)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:248:15)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:207:36)
+2024-03-14T11:56:03.398Z - info: Initializing jsreport (version: 4.2.0, configuration file: none, nodejs: 18.16.1)
+2024-03-14T11:56:03.401Z - info: Searching for available extensions in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-14T11:56:03.405Z - info: Extensions location cache /tmp/jsreport/core/locations.json contains older information, crawling
+2024-03-14T11:56:03.607Z - info: Found 35 extension(s)
+2024-03-14T11:56:03.618Z - debug: Writing extension locations cache to /tmp/jsreport/core/locations.json
+2024-03-14T11:56:03.620Z - debug: Discovered 35 extensions
+2024-03-14T11:56:03.664Z - info: Using extension authentication@4.0.1
+2024-03-14T11:56:03.760Z - debug: Extension authentication@4.0.1 was disabled
+2024-03-14T11:56:03.760Z - info: Using extension base@4.0.0
+2024-03-14T11:56:03.763Z - info: Using extension child-templates@4.0.0
+2024-03-14T11:56:03.764Z - info: Using extension cli@4.0.2
+2024-03-14T11:56:03.766Z - info: Using extension components@4.0.0
+2024-03-14T11:56:03.767Z - info: Using extension data@4.0.0
+2024-03-14T11:56:03.768Z - info: Using extension express@4.0.1
+2024-03-14T11:56:03.862Z - info: Using extension freeze@4.0.0
+2024-03-14T11:56:03.863Z - info: Using extension fs-store@4.0.1
+2024-03-14T11:56:03.925Z - debug: Extension fs-store@4.0.1 was disabled
+2024-03-14T11:56:03.926Z - info: Using extension handlebars@4.0.1
+2024-03-14T11:56:03.927Z - info: Using extension import-export@4.0.2
+2024-03-14T11:56:03.932Z - info: Using extension jsrender@4.0.0
+2024-03-14T11:56:03.933Z - info: Using extension licensing@4.0.1
+2024-03-14T11:56:03.943Z - info: Using extension localization@4.0.1
+2024-03-14T11:56:03.944Z - info: Using extension npm@4.0.0
+2024-03-14T11:56:03.946Z - info: Using extension pdf-utils@4.0.2
+2024-03-14T11:56:03.947Z - info: Using extension reports@4.0.0
+2024-03-14T11:56:03.949Z - info: Using extension tags@4.0.1
+2024-03-14T11:56:03.950Z - info: Using extension text@4.0.0
+2024-03-14T11:56:03.950Z - info: Using extension version-control@4.0.0
+2024-03-14T11:56:03.960Z - info: Using extension assets@4.0.2
+2024-03-14T11:56:03.967Z - info: Using extension authorization@4.0.0
+2024-03-14T11:56:03.969Z - debug: Extension authorization@4.0.0 was disabled
+2024-03-14T11:56:03.969Z - info: Using extension browser-client@4.0.0
+2024-03-14T11:56:03.971Z - info: Using extension chrome-pdf@4.0.0
+2024-03-14T11:56:03.974Z - debug: Chrome strategy is chrome-pool, numberOfWorkers: 1
+2024-03-14T11:56:03.974Z - info: Using extension docx@4.1.1
+2024-03-14T11:56:03.976Z - info: Using extension html-to-xlsx@4.0.1
+2024-03-14T11:56:04.172Z - info: html-to-xlsx detected chrome as available html engine
+2024-03-14T11:56:04.173Z - info: Using extension pptx@4.1.0
+2024-03-14T11:56:04.174Z - info: Using extension scheduling@4.0.0
+2024-03-14T11:56:04.195Z - info: Using extension scripts@4.0.0
+2024-03-14T11:56:04.195Z - info: Using extension static-pdf@4.0.0
+2024-03-14T11:56:04.196Z - info: Using extension studio@4.0.2
+2024-03-14T11:56:04.261Z - info: Using extension xlsx@4.0.2
+2024-03-14T11:56:04.263Z - info: Using extension public-templates@4.0.0
+2024-03-14T11:56:04.263Z - debug: Extension public-templates@4.0.0 was disabled
+2024-03-14T11:56:04.263Z - info: Using extension sample-template@4.0.0
+2024-03-14T11:56:04.266Z - info: Using extension studio-theme-dark@4.0.0
+2024-03-14T11:56:04.267Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2024-03-14T11:56:04.268Z - info: Using memory provider for template store. The saved templates will be lost after restart
+2024-03-14T11:56:04.280Z - debug: studio default theme is: light
+2024-03-14T11:56:04.285Z - info: Creating default express app.
+2024-03-14T11:56:04.298Z - info: jsreport server successfully started on http port: 5488
+2024-03-14T11:56:04.300Z - info: Verifying license key free
+2024-03-14T11:56:04.301Z - info: Using free license
+2024-03-14T11:56:04.308Z - info: Migrating templates chrome settings (waitForNetworkIddle -> waitForNetworkIdle)
+2024-03-14T11:56:04.309Z - info: Migration successful
+2024-03-14T11:56:04.309Z - debug: Creating samples is disabled
+2024-03-14T11:56:04.310Z - info: Initializing worker threads
+2024-03-14T11:56:04.310Z - debug: Extensions in workers: base, child-templates, components, data, express, handlebars, jsrender, localization, npm, pdf-utils, reports, text, version-control, assets, browser-client, chrome-pdf, docx, html-to-xlsx, pptx, scripts, static-pdf, studio, xlsx
+2024-03-14T11:56:04.896Z - info: 2 worker threads initialized in 586ms
+2024-03-14T11:56:04.897Z - info: Starting temp files cleanup with 180000ms threshold
+2024-03-14T11:56:04.897Z - info: reporter initialized
+2024-03-14T11:56:21.510Z - info: Initializing jsreport (version: 4.2.0, configuration file: none, nodejs: 18.16.1)
+2024-03-14T11:56:21.512Z - info: Searching for available extensions in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-14T11:56:21.516Z - info: Extensions location cache contains up to date information, skipping crawling in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-14T11:56:21.520Z - info: Found 35 extension(s)
+2024-03-14T11:56:21.532Z - debug: Writing extension locations cache to /tmp/jsreport/core/locations.json
+2024-03-14T11:56:21.534Z - debug: Discovered 35 extensions
+2024-03-14T11:56:21.580Z - info: Using extension authentication@4.0.1
+2024-03-14T11:56:21.667Z - debug: Extension authentication@4.0.1 was disabled
+2024-03-14T11:56:21.667Z - info: Using extension base@4.0.0
+2024-03-14T11:56:21.670Z - info: Using extension child-templates@4.0.0
+2024-03-14T11:56:21.671Z - info: Using extension cli@4.0.2
+2024-03-14T11:56:21.672Z - info: Using extension components@4.0.0
+2024-03-14T11:56:21.673Z - info: Using extension data@4.0.0
+2024-03-14T11:56:21.674Z - info: Using extension express@4.0.1
+2024-03-14T11:56:21.760Z - info: Using extension freeze@4.0.0
+2024-03-14T11:56:21.761Z - info: Using extension fs-store@4.0.1
+2024-03-14T11:56:21.821Z - debug: Extension fs-store@4.0.1 was disabled
+2024-03-14T11:56:21.821Z - info: Using extension handlebars@4.0.1
+2024-03-14T11:56:21.822Z - info: Using extension import-export@4.0.2
+2024-03-14T11:56:21.827Z - info: Using extension jsrender@4.0.0
+2024-03-14T11:56:21.828Z - info: Using extension licensing@4.0.1
+2024-03-14T11:56:21.839Z - info: Using extension localization@4.0.1
+2024-03-14T11:56:21.840Z - info: Using extension npm@4.0.0
+2024-03-14T11:56:21.843Z - info: Using extension pdf-utils@4.0.2
+2024-03-14T11:56:21.844Z - info: Using extension reports@4.0.0
+2024-03-14T11:56:21.846Z - info: Using extension tags@4.0.1
+2024-03-14T11:56:21.846Z - info: Using extension text@4.0.0
+2024-03-14T11:56:21.847Z - info: Using extension version-control@4.0.0
+2024-03-14T11:56:21.855Z - info: Using extension assets@4.0.2
+2024-03-14T11:56:21.861Z - info: Using extension authorization@4.0.0
+2024-03-14T11:56:21.864Z - debug: Extension authorization@4.0.0 was disabled
+2024-03-14T11:56:21.864Z - info: Using extension browser-client@4.0.0
+2024-03-14T11:56:21.865Z - info: Using extension chrome-pdf@4.0.0
+2024-03-14T11:56:21.868Z - debug: Chrome strategy is chrome-pool, numberOfWorkers: 1
+2024-03-14T11:56:21.868Z - info: Using extension docx@4.1.1
+2024-03-14T11:56:21.870Z - info: Using extension html-to-xlsx@4.0.1
+2024-03-14T11:56:22.053Z - info: html-to-xlsx detected chrome as available html engine
+2024-03-14T11:56:22.054Z - info: Using extension pptx@4.1.0
+2024-03-14T11:56:22.055Z - info: Using extension scheduling@4.0.0
+2024-03-14T11:56:22.080Z - info: Using extension scripts@4.0.0
+2024-03-14T11:56:22.080Z - info: Using extension static-pdf@4.0.0
+2024-03-14T11:56:22.081Z - info: Using extension studio@4.0.2
+2024-03-14T11:56:22.139Z - info: Using extension xlsx@4.0.2
+2024-03-14T11:56:22.141Z - info: Using extension public-templates@4.0.0
+2024-03-14T11:56:22.141Z - debug: Extension public-templates@4.0.0 was disabled
+2024-03-14T11:56:22.141Z - info: Using extension sample-template@4.0.0
+2024-03-14T11:56:22.143Z - info: Using extension studio-theme-dark@4.0.0
+2024-03-14T11:56:22.143Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2024-03-14T11:56:22.143Z - info: Using memory provider for template store. The saved templates will be lost after restart
+2024-03-14T11:56:22.154Z - debug: studio default theme is: light
+2024-03-14T11:56:22.158Z - info: Creating default express app.
+2024-03-14T11:56:22.174Z - info: jsreport server successfully started on http port: 5488
+2024-03-14T11:56:22.178Z - info: Verifying license key free
+2024-03-14T11:56:22.179Z - info: Using free license
+2024-03-14T11:56:22.187Z - info: Migrating templates chrome settings (waitForNetworkIddle -> waitForNetworkIdle)
+2024-03-14T11:56:22.188Z - info: Migration successful
+2024-03-14T11:56:22.189Z - debug: Creating samples is disabled
+2024-03-14T11:56:22.189Z - info: Initializing worker threads
+2024-03-14T11:56:22.189Z - debug: Extensions in workers: base, child-templates, components, data, express, handlebars, jsrender, localization, npm, pdf-utils, reports, text, version-control, assets, browser-client, chrome-pdf, docx, html-to-xlsx, pptx, scripts, static-pdf, studio, xlsx
+2024-03-14T11:56:22.780Z - info: 2 worker threads initialized in 591ms
+2024-03-14T11:56:22.780Z - info: Starting temp files cleanup with 180000ms threshold
+2024-03-14T11:56:22.781Z - info: reporter initialized
+2024-03-14T11:56:27.010Z - info: Render request 1 queued for execution and waiting for available worker rootId=0dp8v6iayamn4dx, id=0dp8v6iayamn4dx
+2024-03-14T11:56:27.059Z - info: Starting rendering request 1 rootId=0dp8v6iayamn4dx, id=0dp8v6iayamn4dx
+2024-03-14T11:56:27.060Z - info: Rendering anonymous template { recipe: chrome-pdf, engine: handlebars } rootId=0dp8v6iayamn4dx, id=0dp8v6iayamn4dx
+2024-03-14T11:56:27.060Z - debug: Data item not defined for this template. rootId=0dp8v6iayamn4dx, id=0dp8v6iayamn4dx
+2024-03-14T11:56:27.108Z - debug: Base url not specified, skipping its injection. rootId=0dp8v6iayamn4dx, id=0dp8v6iayamn4dx
+2024-03-14T11:56:27.108Z - debug: Rendering engine handlebars rootId=0dp8v6iayamn4dx, id=0dp8v6iayamn4dx
+2024-03-14T11:56:27.526Z - debug: Executing recipe chrome-pdf rootId=0dp8v6iayamn4dx, id=0dp8v6iayamn4dx
+2024-03-14T11:56:27.626Z - debug: Converting with chrome HeadlessChrome/117.0.5938.149 using chrome-pool strategy rootId=0dp8v6iayamn4dx, id=0dp8v6iayamn4dx
+2024-03-14T11:56:28.127Z - debug: Page request: GET (document) file:///tmp/jsreport/autocleanup/01bff513-b23b-409a-a2d6-f700786b4cbe-chrome-pdf.html rootId=0dp8v6iayamn4dx, id=0dp8v6iayamn4dx
+2024-03-14T11:56:28.128Z - debug: Page request: GET (stylesheet) https://fonts.cdnfonts.com/css/poppins rootId=0dp8v6iayamn4dx, id=0dp8v6iayamn4dx
+2024-03-14T11:56:28.128Z - debug: Page request: GET (image) file:///tmp/jsreport/autocleanup/%7BbrandLogo%7D rootId=0dp8v6iayamn4dx, id=0dp8v6iayamn4dx
+2024-03-14T11:56:28.128Z - debug: Page request finished: GET (document) 200 file:///tmp/jsreport/autocleanup/01bff513-b23b-409a-a2d6-f700786b4cbe-chrome-pdf.html rootId=0dp8v6iayamn4dx, id=0dp8v6iayamn4dx
+2024-03-14T11:56:28.128Z - warn: Page request failed: GET (image) file:///tmp/jsreport/autocleanup/%7BbrandLogo%7D, failure: net::ERR_ACCESS_DENIED rootId=0dp8v6iayamn4dx, id=0dp8v6iayamn4dx
+2024-03-14T11:56:28.129Z - debug: [36m(console:error) Failed to load resource: net::ERR_ACCESS_DENIED[39m userLevel=true, rootId=0dp8v6iayamn4dx, id=0dp8v6iayamn4dx
+2024-03-14T11:56:28.529Z - debug: Page request finished: GET (stylesheet) 200 https://fonts.cdnfonts.com/css/poppins rootId=0dp8v6iayamn4dx, id=0dp8v6iayamn4dx
+2024-03-14T11:56:28.573Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=0dp8v6iayamn4dx, id=0dp8v6iayamn4dx
+2024-03-14T11:56:28.574Z - debug: Running chrome with params {"timeout":59528,"margin":{},"printBackground":true} rootId=0dp8v6iayamn4dx, id=0dp8v6iayamn4dx
+2024-03-14T11:56:28.574Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=0dp8v6iayamn4dx, id=0dp8v6iayamn4dx
+2024-03-14T11:56:28.574Z - debug: Skipping storing report. rootId=0dp8v6iayamn4dx, id=0dp8v6iayamn4dx
+2024-03-14T11:56:28.574Z - info: Rendering request 1 finished in 1572 ms rootId=0dp8v6iayamn4dx, id=0dp8v6iayamn4dx
+2024-03-14T11:57:26.529Z - info: Initializing jsreport (version: 4.2.0, configuration file: none, nodejs: 18.16.1)
+2024-03-14T11:57:26.531Z - info: Searching for available extensions in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-14T11:57:26.536Z - info: Extensions location cache contains up to date information, skipping crawling in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-14T11:57:26.538Z - info: Found 35 extension(s)
+2024-03-14T11:57:26.550Z - debug: Writing extension locations cache to /tmp/jsreport/core/locations.json
+2024-03-14T11:57:26.552Z - debug: Discovered 35 extensions
+2024-03-14T11:57:26.605Z - info: Using extension authentication@4.0.1
+2024-03-14T11:57:26.697Z - debug: Extension authentication@4.0.1 was disabled
+2024-03-14T11:57:26.697Z - info: Using extension base@4.0.0
+2024-03-14T11:57:26.700Z - info: Using extension child-templates@4.0.0
+2024-03-14T11:57:26.701Z - info: Using extension cli@4.0.2
+2024-03-14T11:57:26.702Z - info: Using extension components@4.0.0
+2024-03-14T11:57:26.703Z - info: Using extension data@4.0.0
+2024-03-14T11:57:26.704Z - info: Using extension express@4.0.1
+2024-03-14T11:57:26.791Z - info: Using extension freeze@4.0.0
+2024-03-14T11:57:26.792Z - info: Using extension fs-store@4.0.1
+2024-03-14T11:57:26.856Z - debug: Extension fs-store@4.0.1 was disabled
+2024-03-14T11:57:26.856Z - info: Using extension handlebars@4.0.1
+2024-03-14T11:57:26.857Z - info: Using extension import-export@4.0.2
+2024-03-14T11:57:26.862Z - info: Using extension jsrender@4.0.0
+2024-03-14T11:57:26.863Z - info: Using extension licensing@4.0.1
+2024-03-14T11:57:26.876Z - info: Using extension localization@4.0.1
+2024-03-14T11:57:26.877Z - info: Using extension npm@4.0.0
+2024-03-14T11:57:26.879Z - info: Using extension pdf-utils@4.0.2
+2024-03-14T11:57:26.880Z - info: Using extension reports@4.0.0
+2024-03-14T11:57:26.882Z - info: Using extension tags@4.0.1
+2024-03-14T11:57:26.883Z - info: Using extension text@4.0.0
+2024-03-14T11:57:26.885Z - info: Using extension version-control@4.0.0
+2024-03-14T11:57:26.895Z - info: Using extension assets@4.0.2
+2024-03-14T11:57:26.902Z - info: Using extension authorization@4.0.0
+2024-03-14T11:57:26.905Z - debug: Extension authorization@4.0.0 was disabled
+2024-03-14T11:57:26.905Z - info: Using extension browser-client@4.0.0
+2024-03-14T11:57:26.906Z - info: Using extension chrome-pdf@4.0.0
+2024-03-14T11:57:26.908Z - debug: Chrome strategy is chrome-pool, numberOfWorkers: 1
+2024-03-14T11:57:26.909Z - info: Using extension docx@4.1.1
+2024-03-14T11:57:26.910Z - info: Using extension html-to-xlsx@4.0.1
+2024-03-14T11:57:27.099Z - info: html-to-xlsx detected chrome as available html engine
+2024-03-14T11:57:27.099Z - info: Using extension pptx@4.1.0
+2024-03-14T11:57:27.100Z - info: Using extension scheduling@4.0.0
+2024-03-14T11:57:27.126Z - info: Using extension scripts@4.0.0
+2024-03-14T11:57:27.127Z - info: Using extension static-pdf@4.0.0
+2024-03-14T11:57:27.127Z - info: Using extension studio@4.0.2
+2024-03-14T11:57:27.186Z - info: Using extension xlsx@4.0.2
+2024-03-14T11:57:27.187Z - info: Using extension public-templates@4.0.0
+2024-03-14T11:57:27.188Z - debug: Extension public-templates@4.0.0 was disabled
+2024-03-14T11:57:27.188Z - info: Using extension sample-template@4.0.0
+2024-03-14T11:57:27.189Z - info: Using extension studio-theme-dark@4.0.0
+2024-03-14T11:57:27.190Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2024-03-14T11:57:27.190Z - info: Using memory provider for template store. The saved templates will be lost after restart
+2024-03-14T11:57:27.200Z - debug: studio default theme is: light
+2024-03-14T11:57:27.204Z - info: Creating default express app.
+2024-03-14T11:57:27.220Z - info: jsreport server successfully started on http port: 5488
+2024-03-14T11:57:27.226Z - info: Verifying license key free
+2024-03-14T11:57:27.226Z - info: Using free license
+2024-03-14T11:57:27.234Z - info: Migrating templates chrome settings (waitForNetworkIddle -> waitForNetworkIdle)
+2024-03-14T11:57:27.235Z - info: Migration successful
+2024-03-14T11:57:27.236Z - debug: Creating samples is disabled
+2024-03-14T11:57:27.237Z - info: Initializing worker threads
+2024-03-14T11:57:27.237Z - debug: Extensions in workers: base, child-templates, components, data, express, handlebars, jsrender, localization, npm, pdf-utils, reports, text, version-control, assets, browser-client, chrome-pdf, docx, html-to-xlsx, pptx, scripts, static-pdf, studio, xlsx
+2024-03-14T11:57:27.887Z - info: 2 worker threads initialized in 650ms
+2024-03-14T11:57:27.887Z - info: Starting temp files cleanup with 180000ms threshold
+2024-03-14T11:57:27.888Z - info: reporter initialized
+2024-03-14T11:57:29.651Z - info: Render request 1 queued for execution and waiting for available worker rootId=j58ckms8zmdcc0y, id=j58ckms8zmdcc0y
+2024-03-14T11:57:29.729Z - info: Starting rendering request 1 rootId=j58ckms8zmdcc0y, id=j58ckms8zmdcc0y
+2024-03-14T11:57:29.730Z - info: Rendering anonymous template { recipe: chrome-pdf, engine: handlebars } rootId=j58ckms8zmdcc0y, id=j58ckms8zmdcc0y
+2024-03-14T11:57:29.730Z - debug: Data item not defined for this template. rootId=j58ckms8zmdcc0y, id=j58ckms8zmdcc0y
+2024-03-14T11:57:29.730Z - debug: Base url not specified, skipping its injection. rootId=j58ckms8zmdcc0y, id=j58ckms8zmdcc0y
+2024-03-14T11:57:29.730Z - debug: Rendering engine handlebars rootId=j58ckms8zmdcc0y, id=j58ckms8zmdcc0y
+2024-03-14T11:57:30.142Z - debug: Executing recipe chrome-pdf rootId=j58ckms8zmdcc0y, id=j58ckms8zmdcc0y
+2024-03-14T11:57:30.243Z - debug: Converting with chrome HeadlessChrome/117.0.5938.149 using chrome-pool strategy rootId=j58ckms8zmdcc0y, id=j58ckms8zmdcc0y
+2024-03-14T11:57:30.845Z - debug: Page request: GET (document) file:///tmp/jsreport/autocleanup/89ab6782-fd2b-4ba1-8d7f-e66d3095a9c8-chrome-pdf.html rootId=j58ckms8zmdcc0y, id=j58ckms8zmdcc0y
+2024-03-14T11:57:30.846Z - debug: Page request: GET (stylesheet) https://fonts.cdnfonts.com/css/poppins rootId=j58ckms8zmdcc0y, id=j58ckms8zmdcc0y
+2024-03-14T11:57:30.846Z - debug: Page request finished: GET (document) 200 file:///tmp/jsreport/autocleanup/89ab6782-fd2b-4ba1-8d7f-e66d3095a9c8-chrome-pdf.html rootId=j58ckms8zmdcc0y, id=j58ckms8zmdcc0y
+2024-03-14T11:57:31.133Z - debug: Page request finished: GET (stylesheet) 200 https://fonts.cdnfonts.com/css/poppins rootId=j58ckms8zmdcc0y, id=j58ckms8zmdcc0y
+2024-03-14T11:57:31.134Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=j58ckms8zmdcc0y, id=j58ckms8zmdcc0y
+2024-03-14T11:57:31.135Z - debug: Running chrome with params {"timeout":59537,"margin":{},"printBackground":true} rootId=j58ckms8zmdcc0y, id=j58ckms8zmdcc0y
+2024-03-14T11:57:31.135Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=j58ckms8zmdcc0y, id=j58ckms8zmdcc0y
+2024-03-14T11:57:31.135Z - debug: Skipping storing report. rootId=j58ckms8zmdcc0y, id=j58ckms8zmdcc0y
+2024-03-14T11:57:31.135Z - info: Rendering request 1 finished in 1491 ms rootId=j58ckms8zmdcc0y, id=j58ckms8zmdcc0y
+2024-03-14T11:58:23.122Z - info: Initializing jsreport (version: 4.2.0, configuration file: none, nodejs: 18.16.1)
+2024-03-14T11:58:23.124Z - info: Searching for available extensions in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-14T11:58:23.128Z - info: Extensions location cache contains up to date information, skipping crawling in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-14T11:58:23.130Z - info: Found 35 extension(s)
+2024-03-14T11:58:23.144Z - debug: Writing extension locations cache to /tmp/jsreport/core/locations.json
+2024-03-14T11:58:23.145Z - debug: Discovered 35 extensions
+2024-03-14T11:58:23.190Z - info: Using extension authentication@4.0.1
+2024-03-14T11:58:23.273Z - debug: Extension authentication@4.0.1 was disabled
+2024-03-14T11:58:23.274Z - info: Using extension base@4.0.0
+2024-03-14T11:58:23.276Z - info: Using extension child-templates@4.0.0
+2024-03-14T11:58:23.277Z - info: Using extension cli@4.0.2
+2024-03-14T11:58:23.279Z - info: Using extension components@4.0.0
+2024-03-14T11:58:23.280Z - info: Using extension data@4.0.0
+2024-03-14T11:58:23.281Z - info: Using extension express@4.0.1
+2024-03-14T11:58:23.367Z - info: Using extension freeze@4.0.0
+2024-03-14T11:58:23.369Z - info: Using extension fs-store@4.0.1
+2024-03-14T11:58:23.429Z - debug: Extension fs-store@4.0.1 was disabled
+2024-03-14T11:58:23.430Z - info: Using extension handlebars@4.0.1
+2024-03-14T11:58:23.431Z - info: Using extension import-export@4.0.2
+2024-03-14T11:58:23.437Z - info: Using extension jsrender@4.0.0
+2024-03-14T11:58:23.437Z - info: Using extension licensing@4.0.1
+2024-03-14T11:58:23.450Z - info: Using extension localization@4.0.1
+2024-03-14T11:58:23.450Z - info: Using extension npm@4.0.0
+2024-03-14T11:58:23.453Z - info: Using extension pdf-utils@4.0.2
+2024-03-14T11:58:23.455Z - info: Using extension reports@4.0.0
+2024-03-14T11:58:23.457Z - info: Using extension tags@4.0.1
+2024-03-14T11:58:23.458Z - info: Using extension text@4.0.0
+2024-03-14T11:58:23.459Z - info: Using extension version-control@4.0.0
+2024-03-14T11:58:23.467Z - info: Using extension assets@4.0.2
+2024-03-14T11:58:23.475Z - info: Using extension authorization@4.0.0
+2024-03-14T11:58:23.477Z - debug: Extension authorization@4.0.0 was disabled
+2024-03-14T11:58:23.477Z - info: Using extension browser-client@4.0.0
+2024-03-14T11:58:23.478Z - info: Using extension chrome-pdf@4.0.0
+2024-03-14T11:58:23.481Z - debug: Chrome strategy is chrome-pool, numberOfWorkers: 1
+2024-03-14T11:58:23.481Z - info: Using extension docx@4.1.1
+2024-03-14T11:58:23.483Z - info: Using extension html-to-xlsx@4.0.1
+2024-03-14T11:58:23.672Z - info: html-to-xlsx detected chrome as available html engine
+2024-03-14T11:58:23.672Z - info: Using extension pptx@4.1.0
+2024-03-14T11:58:23.673Z - info: Using extension scheduling@4.0.0
+2024-03-14T11:58:23.710Z - info: Using extension scripts@4.0.0
+2024-03-14T11:58:23.711Z - info: Using extension static-pdf@4.0.0
+2024-03-14T11:58:23.711Z - info: Using extension studio@4.0.2
+2024-03-14T11:58:23.785Z - info: Using extension xlsx@4.0.2
+2024-03-14T11:58:23.787Z - info: Using extension public-templates@4.0.0
+2024-03-14T11:58:23.788Z - debug: Extension public-templates@4.0.0 was disabled
+2024-03-14T11:58:23.788Z - info: Using extension sample-template@4.0.0
+2024-03-14T11:58:23.789Z - info: Using extension studio-theme-dark@4.0.0
+2024-03-14T11:58:23.790Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2024-03-14T11:58:23.790Z - info: Using memory provider for template store. The saved templates will be lost after restart
+2024-03-14T11:58:23.800Z - debug: studio default theme is: light
+2024-03-14T11:58:23.805Z - info: Creating default express app.
+2024-03-14T11:58:23.821Z - info: jsreport server successfully started on http port: 5488
+2024-03-14T11:58:23.826Z - info: Verifying license key free
+2024-03-14T11:58:23.827Z - info: Using free license
+2024-03-14T11:58:23.835Z - info: Migrating templates chrome settings (waitForNetworkIddle -> waitForNetworkIdle)
+2024-03-14T11:58:23.836Z - info: Migration successful
+2024-03-14T11:58:23.837Z - debug: Creating samples is disabled
+2024-03-14T11:58:23.838Z - info: Initializing worker threads
+2024-03-14T11:58:23.839Z - debug: Extensions in workers: base, child-templates, components, data, express, handlebars, jsrender, localization, npm, pdf-utils, reports, text, version-control, assets, browser-client, chrome-pdf, docx, html-to-xlsx, pptx, scripts, static-pdf, studio, xlsx
+2024-03-14T11:58:24.456Z - info: 2 worker threads initialized in 618ms
+2024-03-14T11:58:24.457Z - info: Starting temp files cleanup with 180000ms threshold
+2024-03-14T11:58:24.458Z - info: reporter initialized
+2024-03-14T11:58:27.175Z - info: Render request 1 queued for execution and waiting for available worker rootId=2ke21huztrcw7cu, id=2ke21huztrcw7cu
+2024-03-14T11:58:27.224Z - info: Starting rendering request 1 rootId=2ke21huztrcw7cu, id=2ke21huztrcw7cu
+2024-03-14T11:58:27.224Z - info: Rendering anonymous template { recipe: chrome-pdf, engine: handlebars } rootId=2ke21huztrcw7cu, id=2ke21huztrcw7cu
+2024-03-14T11:58:27.225Z - debug: Data item not defined for this template. rootId=2ke21huztrcw7cu, id=2ke21huztrcw7cu
+2024-03-14T11:58:27.274Z - debug: Base url not specified, skipping its injection. rootId=2ke21huztrcw7cu, id=2ke21huztrcw7cu
+2024-03-14T11:58:27.274Z - debug: Rendering engine handlebars rootId=2ke21huztrcw7cu, id=2ke21huztrcw7cu
+2024-03-14T11:58:27.686Z - debug: Executing recipe chrome-pdf rootId=2ke21huztrcw7cu, id=2ke21huztrcw7cu
+2024-03-14T11:58:27.789Z - debug: Converting with chrome HeadlessChrome/117.0.5938.149 using chrome-pool strategy rootId=2ke21huztrcw7cu, id=2ke21huztrcw7cu
+2024-03-14T11:58:28.391Z - debug: Page request: GET (document) file:///tmp/jsreport/autocleanup/a7090b87-d8ca-4c57-b17b-91d52d489b0e-chrome-pdf.html rootId=2ke21huztrcw7cu, id=2ke21huztrcw7cu
+2024-03-14T11:58:28.490Z - debug: Page request finished: GET (document) 200 file:///tmp/jsreport/autocleanup/a7090b87-d8ca-4c57-b17b-91d52d489b0e-chrome-pdf.html rootId=2ke21huztrcw7cu, id=2ke21huztrcw7cu
+2024-03-14T11:58:28.491Z - debug: Page request: GET (stylesheet) https://fonts.cdnfonts.com/css/poppins rootId=2ke21huztrcw7cu, id=2ke21huztrcw7cu
+2024-03-14T11:58:28.891Z - debug: Page request finished: GET (stylesheet) 200 https://fonts.cdnfonts.com/css/poppins rootId=2ke21huztrcw7cu, id=2ke21huztrcw7cu
+2024-03-14T11:58:28.991Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=2ke21huztrcw7cu, id=2ke21huztrcw7cu
+2024-03-14T11:58:28.992Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=2ke21huztrcw7cu, id=2ke21huztrcw7cu
+2024-03-14T11:58:29.292Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=2ke21huztrcw7cu, id=2ke21huztrcw7cu
+2024-03-14T11:58:29.292Z - debug: Running chrome with params {"timeout":59523,"margin":{},"printBackground":true} rootId=2ke21huztrcw7cu, id=2ke21huztrcw7cu
+2024-03-14T11:58:29.293Z - debug: Skipping storing report. rootId=2ke21huztrcw7cu, id=2ke21huztrcw7cu
+2024-03-14T11:58:29.294Z - info: Rendering request 1 finished in 2128 ms rootId=2ke21huztrcw7cu, id=2ke21huztrcw7cu
+2024-03-14T11:58:53.252Z - info: Initializing jsreport (version: 4.2.0, configuration file: none, nodejs: 18.16.1)
+2024-03-14T11:58:53.254Z - info: Searching for available extensions in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-14T11:58:53.258Z - info: Extensions location cache contains up to date information, skipping crawling in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-14T11:58:53.261Z - info: Found 35 extension(s)
+2024-03-14T11:58:53.276Z - debug: Writing extension locations cache to /tmp/jsreport/core/locations.json
+2024-03-14T11:58:53.277Z - debug: Discovered 35 extensions
+2024-03-14T11:58:53.327Z - info: Using extension authentication@4.0.1
+2024-03-14T11:58:53.414Z - debug: Extension authentication@4.0.1 was disabled
+2024-03-14T11:58:53.415Z - info: Using extension base@4.0.0
+2024-03-14T11:58:53.417Z - info: Using extension child-templates@4.0.0
+2024-03-14T11:58:53.418Z - info: Using extension cli@4.0.2
+2024-03-14T11:58:53.420Z - info: Using extension components@4.0.0
+2024-03-14T11:58:53.421Z - info: Using extension data@4.0.0
+2024-03-14T11:58:53.422Z - info: Using extension express@4.0.1
+2024-03-14T11:58:53.508Z - info: Using extension freeze@4.0.0
+2024-03-14T11:58:53.509Z - info: Using extension fs-store@4.0.1
+2024-03-14T11:58:53.569Z - debug: Extension fs-store@4.0.1 was disabled
+2024-03-14T11:58:53.569Z - info: Using extension handlebars@4.0.1
+2024-03-14T11:58:53.570Z - info: Using extension import-export@4.0.2
+2024-03-14T11:58:53.575Z - info: Using extension jsrender@4.0.0
+2024-03-14T11:58:53.575Z - info: Using extension licensing@4.0.1
+2024-03-14T11:58:53.586Z - info: Using extension localization@4.0.1
+2024-03-14T11:58:53.587Z - info: Using extension npm@4.0.0
+2024-03-14T11:58:53.589Z - info: Using extension pdf-utils@4.0.2
+2024-03-14T11:58:53.590Z - info: Using extension reports@4.0.0
+2024-03-14T11:58:53.593Z - info: Using extension tags@4.0.1
+2024-03-14T11:58:53.594Z - info: Using extension text@4.0.0
+2024-03-14T11:58:53.594Z - info: Using extension version-control@4.0.0
+2024-03-14T11:58:53.601Z - info: Using extension assets@4.0.2
+2024-03-14T11:58:53.611Z - info: Using extension authorization@4.0.0
+2024-03-14T11:58:53.613Z - debug: Extension authorization@4.0.0 was disabled
+2024-03-14T11:58:53.614Z - info: Using extension browser-client@4.0.0
+2024-03-14T11:58:53.616Z - info: Using extension chrome-pdf@4.0.0
+2024-03-14T11:58:53.618Z - debug: Chrome strategy is chrome-pool, numberOfWorkers: 1
+2024-03-14T11:58:53.618Z - info: Using extension docx@4.1.1
+2024-03-14T11:58:53.620Z - info: Using extension html-to-xlsx@4.0.1
+2024-03-14T11:58:53.802Z - info: html-to-xlsx detected chrome as available html engine
+2024-03-14T11:58:53.802Z - info: Using extension pptx@4.1.0
+2024-03-14T11:58:53.803Z - info: Using extension scheduling@4.0.0
+2024-03-14T11:58:53.828Z - info: Using extension scripts@4.0.0
+2024-03-14T11:58:53.829Z - info: Using extension static-pdf@4.0.0
+2024-03-14T11:58:53.829Z - info: Using extension studio@4.0.2
+2024-03-14T11:58:53.886Z - info: Using extension xlsx@4.0.2
+2024-03-14T11:58:53.887Z - info: Using extension public-templates@4.0.0
+2024-03-14T11:58:53.888Z - debug: Extension public-templates@4.0.0 was disabled
+2024-03-14T11:58:53.888Z - info: Using extension sample-template@4.0.0
+2024-03-14T11:58:53.889Z - info: Using extension studio-theme-dark@4.0.0
+2024-03-14T11:58:53.890Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2024-03-14T11:58:53.890Z - info: Using memory provider for template store. The saved templates will be lost after restart
+2024-03-14T11:58:53.900Z - debug: studio default theme is: light
+2024-03-14T11:58:53.905Z - info: Creating default express app.
+2024-03-14T11:58:53.919Z - info: jsreport server successfully started on http port: 5488
+2024-03-14T11:58:53.925Z - info: Verifying license key free
+2024-03-14T11:58:53.926Z - info: Using free license
+2024-03-14T11:58:53.933Z - info: Migrating templates chrome settings (waitForNetworkIddle -> waitForNetworkIdle)
+2024-03-14T11:58:53.934Z - info: Migration successful
+2024-03-14T11:58:53.935Z - debug: Creating samples is disabled
+2024-03-14T11:58:53.936Z - info: Initializing worker threads
+2024-03-14T11:58:53.936Z - debug: Extensions in workers: base, child-templates, components, data, express, handlebars, jsrender, localization, npm, pdf-utils, reports, text, version-control, assets, browser-client, chrome-pdf, docx, html-to-xlsx, pptx, scripts, static-pdf, studio, xlsx
+2024-03-14T11:58:54.538Z - info: 2 worker threads initialized in 602ms
+2024-03-14T11:58:54.538Z - info: Starting temp files cleanup with 180000ms threshold
+2024-03-14T11:58:54.539Z - info: reporter initialized
+2024-03-14T11:58:58.597Z - info: Render request 1 queued for execution and waiting for available worker rootId=hpc69kgsfpk6vce, id=hpc69kgsfpk6vce
+2024-03-14T11:58:58.682Z - info: Starting rendering request 1 rootId=hpc69kgsfpk6vce, id=hpc69kgsfpk6vce
+2024-03-14T11:58:58.682Z - info: Rendering anonymous template { recipe: phantom-pdf, engine: handlebars } rootId=hpc69kgsfpk6vce, id=hpc69kgsfpk6vce
+2024-03-14T11:58:58.682Z - debug: Data item not defined for this template. rootId=hpc69kgsfpk6vce, id=hpc69kgsfpk6vce
+2024-03-14T11:58:58.682Z - debug: Base url not specified, skipping its injection. rootId=hpc69kgsfpk6vce, id=hpc69kgsfpk6vce
+2024-03-14T11:58:58.683Z - debug: Rendering engine handlebars rootId=hpc69kgsfpk6vce, id=hpc69kgsfpk6vce
+2024-03-14T11:58:59.057Z - warn: Error when processing render request 1
+(because) recipe 'phantom-pdf' not found. If this is a custom recipe make sure it's properly installed from npm.
+Error: Recipe 'phantom-pdf' not found. If this is a custom recipe make sure it's properly installed from npm.
+  at module.exports (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+  at WorkerReporter.createError (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:49:12)
+  at invokeRender (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:81:22)
+  at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+  at async WorkerReporter._render (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:142:7)
+  at async /home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/worker/reporter.js:224:19
+  at async processAndResponse (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/advanced-workers/lib/workerHandler.js:41:17) rootId=hpc69kgsfpk6vce, id=hpc69kgsfpk6vce
+2024-03-14T11:58:59.058Z - warn: Rendering request 1 finished with error in 471 ms rootId=hpc69kgsfpk6vce, id=hpc69kgsfpk6vce
+2024-03-14T12:00:33.183Z - info: Initializing jsreport (version: 4.2.0, configuration file: none, nodejs: 18.16.1)
+2024-03-14T12:00:33.185Z - info: Searching for available extensions in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-14T12:00:33.188Z - info: Extensions location cache /tmp/jsreport/core/locations.json contains older information, crawling
+2024-03-14T12:00:33.388Z - info: Found 36 extension(s)
+2024-03-14T12:00:33.399Z - debug: Writing extension locations cache to /tmp/jsreport/core/locations.json
+2024-03-14T12:00:33.401Z - debug: Discovered 36 extensions
+2024-03-14T12:00:33.449Z - info: Using extension authentication@4.0.1
+2024-03-14T12:00:33.545Z - debug: Extension authentication@4.0.1 was disabled
+2024-03-14T12:00:33.546Z - info: Using extension base@4.0.0
+2024-03-14T12:00:33.549Z - info: Using extension child-templates@4.0.0
+2024-03-14T12:00:33.550Z - info: Using extension cli@4.0.2
+2024-03-14T12:00:33.551Z - info: Using extension components@4.0.0
+2024-03-14T12:00:33.553Z - info: Using extension data@4.0.0
+2024-03-14T12:00:33.553Z - info: Using extension express@4.0.1
+2024-03-14T12:00:33.651Z - info: Using extension freeze@4.0.0
+2024-03-14T12:00:33.653Z - info: Using extension fs-store@4.0.1
+2024-03-14T12:00:33.714Z - debug: Extension fs-store@4.0.1 was disabled
+2024-03-14T12:00:33.714Z - info: Using extension handlebars@4.0.1
+2024-03-14T12:00:33.715Z - info: Using extension import-export@4.0.2
+2024-03-14T12:00:33.721Z - info: Using extension jsrender@4.0.0
+2024-03-14T12:00:33.722Z - info: Using extension licensing@4.0.1
+2024-03-14T12:00:33.735Z - info: Using extension localization@4.0.1
+2024-03-14T12:00:33.736Z - info: Using extension npm@4.0.0
+2024-03-14T12:00:33.739Z - info: Using extension pdf-utils@4.0.2
+2024-03-14T12:00:33.741Z - info: Using extension reports@4.0.0
+2024-03-14T12:00:33.743Z - info: Using extension tags@4.0.1
+2024-03-14T12:00:33.744Z - info: Using extension text@4.0.0
+2024-03-14T12:00:33.745Z - info: Using extension version-control@4.0.0
+2024-03-14T12:00:33.754Z - error: Error occurred during reporter init: Error: Error when loading extension phantom-pdf@2.6.1
+Error: Extension "phantom-pdf" is not compatible with "core" extension. Missing ".requires" information in "phantom-pdf" definition
+    at validateMinimalVersion (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/validateMinimalVersion.js:24:11)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:158:9)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at async MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:207:7)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:248:15)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at async MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:207:7)
+2024-03-14T12:06:19.285Z - info: Initializing jsreport (version: 4.2.0, configuration file: none, nodejs: 18.16.1)
+2024-03-14T12:06:19.288Z - info: Searching for available extensions in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-14T12:06:19.298Z - info: Extensions location cache /tmp/jsreport/core/locations.json contains older information, crawling
+2024-03-14T12:06:19.606Z - info: Found 36 extension(s)
+2024-03-14T12:06:19.642Z - debug: Writing extension locations cache to /tmp/jsreport/core/locations.json
+2024-03-14T12:06:19.644Z - debug: Discovered 36 extensions
+2024-03-14T12:06:19.693Z - info: Using extension authentication@4.0.1
+2024-03-14T12:06:19.817Z - debug: Extension authentication@4.0.1 was disabled
+2024-03-14T12:06:19.818Z - info: Using extension base@4.0.0
+2024-03-14T12:06:19.820Z - info: Using extension child-templates@4.0.0
+2024-03-14T12:06:19.821Z - info: Using extension cli@4.0.2
+2024-03-14T12:06:19.823Z - info: Using extension components@4.0.0
+2024-03-14T12:06:19.824Z - info: Using extension data@4.0.0
+2024-03-14T12:06:19.825Z - info: Using extension express@4.0.1
+2024-03-14T12:06:19.970Z - info: Using extension freeze@4.0.0
+2024-03-14T12:06:19.971Z - info: Using extension fs-store@4.0.1
+2024-03-14T12:06:20.077Z - debug: Extension fs-store@4.0.1 was disabled
+2024-03-14T12:06:20.078Z - info: Using extension handlebars@4.0.1
+2024-03-14T12:06:20.080Z - info: Using extension import-export@4.0.2
+2024-03-14T12:06:20.090Z - info: Using extension jsrender@4.0.0
+2024-03-14T12:06:20.090Z - info: Using extension licensing@4.0.1
+2024-03-14T12:06:20.107Z - info: Using extension localization@4.0.1
+2024-03-14T12:06:20.108Z - info: Using extension npm@4.0.0
+2024-03-14T12:06:20.110Z - info: Using extension pdf-utils@4.0.2
+2024-03-14T12:06:20.113Z - info: Using extension reports@4.0.0
+2024-03-14T12:06:20.115Z - info: Using extension tags@4.0.1
+2024-03-14T12:06:20.116Z - info: Using extension text@4.0.0
+2024-03-14T12:06:20.117Z - info: Using extension version-control@4.0.0
+2024-03-14T12:06:20.127Z - error: Error occurred during reporter init: Error: Error when loading extension phantom-pdf@2.6.1
+Error: Extension "phantom-pdf" is not compatible with "core" extension. Missing ".requires" information in "phantom-pdf" definition
+    at validateMinimalVersion (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/validateMinimalVersion.js:24:11)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:158:9)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at async MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:207:7)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:248:15)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at async MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:207:7)
+2024-03-14T12:07:57.688Z - info: Initializing jsreport (version: 4.2.0, configuration file: none, nodejs: 18.16.1)
+2024-03-14T12:07:57.690Z - info: Searching for available extensions in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-14T12:07:57.694Z - info: Extensions location cache /tmp/jsreport/core/locations.json contains older information, crawling
+2024-03-14T12:07:57.903Z - info: Found 35 extension(s)
+2024-03-14T12:07:57.914Z - debug: Writing extension locations cache to /tmp/jsreport/core/locations.json
+2024-03-14T12:07:57.916Z - debug: Discovered 35 extensions
+2024-03-14T12:07:57.961Z - info: Using extension authentication@4.0.1
+2024-03-14T12:07:58.051Z - debug: Extension authentication@4.0.1 was disabled
+2024-03-14T12:07:58.052Z - info: Using extension base@4.0.0
+2024-03-14T12:07:58.057Z - info: Using extension child-templates@4.0.0
+2024-03-14T12:07:58.058Z - info: Using extension cli@4.0.2
+2024-03-14T12:07:58.060Z - info: Using extension components@4.0.0
+2024-03-14T12:07:58.061Z - info: Using extension data@4.0.0
+2024-03-14T12:07:58.062Z - info: Using extension express@4.0.1
+2024-03-14T12:07:58.153Z - info: Using extension freeze@4.0.0
+2024-03-14T12:07:58.154Z - info: Using extension fs-store@4.0.1
+2024-03-14T12:07:58.214Z - debug: Extension fs-store@4.0.1 was disabled
+2024-03-14T12:07:58.214Z - info: Using extension handlebars@4.0.1
+2024-03-14T12:07:58.215Z - info: Using extension import-export@4.0.2
+2024-03-14T12:07:58.221Z - info: Using extension jsrender@4.0.0
+2024-03-14T12:07:58.221Z - info: Using extension licensing@4.0.1
+2024-03-14T12:07:58.239Z - info: Using extension localization@4.0.1
+2024-03-14T12:07:58.239Z - info: Using extension npm@4.0.0
+2024-03-14T12:07:58.242Z - info: Using extension pdf-utils@4.0.2
+2024-03-14T12:07:58.243Z - info: Using extension reports@4.0.0
+2024-03-14T12:07:58.246Z - info: Using extension tags@4.0.1
+2024-03-14T12:07:58.247Z - info: Using extension text@4.0.0
+2024-03-14T12:07:58.248Z - info: Using extension version-control@4.0.0
+2024-03-14T12:07:58.258Z - info: Using extension assets@4.0.2
+2024-03-14T12:07:58.267Z - info: Using extension authorization@4.0.0
+2024-03-14T12:07:58.287Z - debug: Extension authorization@4.0.0 was disabled
+2024-03-14T12:07:58.287Z - info: Using extension browser-client@4.0.0
+2024-03-14T12:07:58.290Z - info: Using extension chrome-pdf@4.0.0
+2024-03-14T12:07:58.293Z - debug: Chrome strategy is chrome-pool, numberOfWorkers: 1
+2024-03-14T12:07:58.294Z - info: Using extension docx@4.1.1
+2024-03-14T12:07:58.297Z - info: Using extension html-to-xlsx@4.0.1
+2024-03-14T12:07:58.701Z - info: html-to-xlsx detected chrome as available html engine
+2024-03-14T12:07:58.701Z - info: Using extension pptx@4.1.0
+2024-03-14T12:07:58.703Z - info: Using extension scheduling@4.0.0
+2024-03-14T12:07:58.744Z - info: Using extension scripts@4.0.0
+2024-03-14T12:07:58.744Z - info: Using extension static-pdf@4.0.0
+2024-03-14T12:07:58.746Z - info: Using extension studio@4.0.2
+2024-03-14T12:07:58.998Z - info: Using extension xlsx@4.0.2
+2024-03-14T12:07:58.999Z - info: Using extension public-templates@4.0.0
+2024-03-14T12:07:59.000Z - debug: Extension public-templates@4.0.0 was disabled
+2024-03-14T12:07:59.000Z - info: Using extension sample-template@4.0.0
+2024-03-14T12:07:59.002Z - info: Using extension studio-theme-dark@4.0.0
+2024-03-14T12:07:59.003Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2024-03-14T12:07:59.003Z - info: Using memory provider for template store. The saved templates will be lost after restart
+2024-03-14T12:07:59.014Z - debug: studio default theme is: light
+2024-03-14T12:07:59.019Z - info: Creating default express app.
+2024-03-14T12:07:59.056Z - info: jsreport server successfully started on http port: 5488
+2024-03-14T12:07:59.057Z - info: Verifying license key free
+2024-03-14T12:07:59.058Z - info: Using free license
+2024-03-14T12:07:59.066Z - info: Migrating templates chrome settings (waitForNetworkIddle -> waitForNetworkIdle)
+2024-03-14T12:07:59.067Z - info: Migration successful
+2024-03-14T12:07:59.068Z - debug: Creating samples is disabled
+2024-03-14T12:07:59.068Z - info: Initializing worker threads
+2024-03-14T12:07:59.068Z - debug: Extensions in workers: base, child-templates, components, data, express, handlebars, jsrender, localization, npm, pdf-utils, reports, text, version-control, assets, browser-client, chrome-pdf, docx, html-to-xlsx, pptx, scripts, static-pdf, studio, xlsx
+2024-03-14T12:08:00.049Z - info: 2 worker threads initialized in 981ms
+2024-03-14T12:08:00.049Z - info: Starting temp files cleanup with 180000ms threshold
+2024-03-14T12:08:00.050Z - info: reporter initialized
+2024-03-14T12:08:01.907Z - info: Render request 1 queued for execution and waiting for available worker rootId=3du95h11g55ppty, id=3du95h11g55ppty
+2024-03-14T12:08:01.968Z - info: Starting rendering request 1 rootId=3du95h11g55ppty, id=3du95h11g55ppty
+2024-03-14T12:08:01.969Z - info: Rendering anonymous template { recipe: phantom-pdf, engine: handlebars } rootId=3du95h11g55ppty, id=3du95h11g55ppty
+2024-03-14T12:08:01.969Z - debug: Data item not defined for this template. rootId=3du95h11g55ppty, id=3du95h11g55ppty
+2024-03-14T12:08:01.969Z - debug: Base url not specified, skipping its injection. rootId=3du95h11g55ppty, id=3du95h11g55ppty
+2024-03-14T12:08:01.969Z - debug: Rendering engine handlebars rootId=3du95h11g55ppty, id=3du95h11g55ppty
+2024-03-14T12:08:02.513Z - warn: Error when processing render request 1
+(because) recipe 'phantom-pdf' not found. If this is a custom recipe make sure it's properly installed from npm.
+Error: Recipe 'phantom-pdf' not found. If this is a custom recipe make sure it's properly installed from npm.
+  at module.exports (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+  at WorkerReporter.createError (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:49:12)
+  at invokeRender (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:81:22)
+  at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+  at async WorkerReporter._render (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:142:7)
+  at async /home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/worker/reporter.js:224:19
+  at async processAndResponse (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/advanced-workers/lib/workerHandler.js:41:17) rootId=3du95h11g55ppty, id=3du95h11g55ppty
+2024-03-14T12:08:02.514Z - warn: Rendering request 1 finished with error in 607 ms rootId=3du95h11g55ppty, id=3du95h11g55ppty
+2024-03-14T12:09:49.809Z - info: Initializing jsreport (version: 4.2.0, configuration file: none, nodejs: 18.16.1)
+2024-03-14T12:09:49.811Z - info: Searching for available extensions in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-14T12:09:49.814Z - info: Extensions location cache /tmp/jsreport/core/locations.json contains older information, crawling
+2024-03-14T12:09:50.025Z - info: Found 36 extension(s)
+2024-03-14T12:09:50.035Z - debug: Writing extension locations cache to /tmp/jsreport/core/locations.json
+2024-03-14T12:09:50.037Z - debug: Discovered 36 extensions
+2024-03-14T12:09:50.082Z - info: Using extension authentication@4.0.1
+2024-03-14T12:09:50.173Z - debug: Extension authentication@4.0.1 was disabled
+2024-03-14T12:09:50.174Z - info: Using extension base@4.0.0
+2024-03-14T12:09:50.177Z - info: Using extension child-templates@4.0.0
+2024-03-14T12:09:50.178Z - info: Using extension cli@4.0.2
+2024-03-14T12:09:50.180Z - info: Using extension components@4.0.0
+2024-03-14T12:09:50.181Z - info: Using extension data@4.0.0
+2024-03-14T12:09:50.182Z - info: Using extension express@4.0.1
+2024-03-14T12:09:50.273Z - info: Using extension freeze@4.0.0
+2024-03-14T12:09:50.274Z - info: Using extension fs-store@4.0.1
+2024-03-14T12:09:50.336Z - debug: Extension fs-store@4.0.1 was disabled
+2024-03-14T12:09:50.336Z - info: Using extension handlebars@4.0.1
+2024-03-14T12:09:50.337Z - info: Using extension import-export@4.0.2
+2024-03-14T12:09:50.343Z - info: Using extension jsrender@4.0.0
+2024-03-14T12:09:50.343Z - info: Using extension licensing@4.0.1
+2024-03-14T12:09:50.357Z - info: Using extension localization@4.0.1
+2024-03-14T12:09:50.358Z - info: Using extension npm@4.0.0
+2024-03-14T12:09:50.360Z - info: Using extension pdf-utils@4.0.2
+2024-03-14T12:09:50.361Z - info: Using extension phantom-pdf@4.1.0
+2024-03-14T12:09:50.364Z - info: Using extension reports@4.0.0
+2024-03-14T12:09:50.367Z - info: Using extension tags@4.0.1
+2024-03-14T12:09:50.368Z - info: Using extension text@4.0.0
+2024-03-14T12:09:50.369Z - info: Using extension version-control@4.0.0
+2024-03-14T12:09:50.377Z - info: Using extension assets@4.0.2
+2024-03-14T12:09:50.387Z - info: Using extension authorization@4.0.0
+2024-03-14T12:09:50.389Z - debug: Extension authorization@4.0.0 was disabled
+2024-03-14T12:09:50.390Z - info: Using extension browser-client@4.0.0
+2024-03-14T12:09:50.391Z - info: Using extension chrome-pdf@4.0.0
+2024-03-14T12:09:50.394Z - debug: Chrome strategy is chrome-pool, numberOfWorkers: 1
+2024-03-14T12:09:50.394Z - info: Using extension docx@4.1.1
+2024-03-14T12:09:50.396Z - info: Using extension html-to-xlsx@4.0.1
+2024-03-14T12:09:50.593Z - info: html-to-xlsx detected chrome as available html engine
+2024-03-14T12:09:50.594Z - info: Using extension pptx@4.1.0
+2024-03-14T12:09:50.595Z - info: Using extension scheduling@4.0.0
+2024-03-14T12:09:50.614Z - info: Using extension scripts@4.0.0
+2024-03-14T12:09:50.615Z - info: Using extension static-pdf@4.0.0
+2024-03-14T12:09:50.615Z - info: Using extension studio@4.0.2
+2024-03-14T12:09:50.676Z - info: Using extension xlsx@4.0.2
+2024-03-14T12:09:50.678Z - info: Using extension public-templates@4.0.0
+2024-03-14T12:09:50.678Z - debug: Extension public-templates@4.0.0 was disabled
+2024-03-14T12:09:50.678Z - info: Using extension sample-template@4.0.0
+2024-03-14T12:09:50.680Z - info: Using extension studio-theme-dark@4.0.0
+2024-03-14T12:09:50.681Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2024-03-14T12:09:50.682Z - info: Using memory provider for template store. The saved templates will be lost after restart
+2024-03-14T12:09:50.691Z - debug: studio default theme is: light
+2024-03-14T12:09:50.695Z - info: Creating default express app.
+2024-03-14T12:09:50.710Z - info: jsreport server successfully started on http port: 5488
+2024-03-14T12:09:50.711Z - info: Verifying license key free
+2024-03-14T12:09:50.712Z - info: Using free license
+2024-03-14T12:09:50.721Z - info: Migrating templates chrome settings (waitForNetworkIddle -> waitForNetworkIdle)
+2024-03-14T12:09:50.722Z - info: Migration successful
+2024-03-14T12:09:50.723Z - debug: Creating samples is disabled
+2024-03-14T12:09:50.723Z - info: Initializing worker threads
+2024-03-14T12:09:50.723Z - debug: Extensions in workers: base, child-templates, components, data, express, handlebars, jsrender, localization, npm, pdf-utils, phantom-pdf, reports, text, version-control, assets, browser-client, chrome-pdf, docx, html-to-xlsx, pptx, scripts, static-pdf, studio, xlsx
+2024-03-14T12:09:51.314Z - info: 2 worker threads initialized in 591ms
+2024-03-14T12:09:51.315Z - info: Starting temp files cleanup with 180000ms threshold
+2024-03-14T12:09:51.315Z - info: reporter initialized
+2024-03-14T12:09:54.801Z - info: Render request 1 queued for execution and waiting for available worker rootId=2d5kr1a2uix18sv, id=2d5kr1a2uix18sv
+2024-03-14T12:09:54.898Z - info: Starting rendering request 1 rootId=2d5kr1a2uix18sv, id=2d5kr1a2uix18sv
+2024-03-14T12:09:54.898Z - info: Rendering anonymous template { recipe: phantom-pdf, engine: handlebars } rootId=2d5kr1a2uix18sv, id=2d5kr1a2uix18sv
+2024-03-14T12:09:54.899Z - debug: Data item not defined for this template. rootId=2d5kr1a2uix18sv, id=2d5kr1a2uix18sv
+2024-03-14T12:09:54.900Z - debug: Base url not specified, skipping its injection. rootId=2d5kr1a2uix18sv, id=2d5kr1a2uix18sv
+2024-03-14T12:09:54.901Z - debug: Rendering engine handlebars rootId=2d5kr1a2uix18sv, id=2d5kr1a2uix18sv
+2024-03-14T12:09:55.289Z - debug: Executing recipe phantom-pdf rootId=2d5kr1a2uix18sv, id=2d5kr1a2uix18sv
+2024-03-14T12:09:55.289Z - error: Error when processing render request 1
+(because) cannot read properties of undefined (reading 'getBuffer')
+TypeError: Cannot read properties of undefined (reading 'getBuffer')
+  at module.exports (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-phantom-pdf/lib/recipe.js:50:39)
+  at Object.execute (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-phantom-pdf/lib/worker.js:10:47)
+  at invokeRender (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:94:18)
+  at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+  at async WorkerReporter._render (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:142:7)
+  at async /home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/worker/reporter.js:224:19
+  at async processAndResponse (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/advanced-workers/lib/workerHandler.js:41:17) rootId=2d5kr1a2uix18sv, id=2d5kr1a2uix18sv
+2024-03-14T12:09:55.290Z - error: Rendering request 1 finished with error in 495 ms rootId=2d5kr1a2uix18sv, id=2d5kr1a2uix18sv
+2024-03-14T12:17:19.537Z - info: Initializing jsreport (version: 4.2.0, configuration file: none, nodejs: 18.16.1)
+2024-03-14T12:17:19.539Z - info: Searching for available extensions in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-14T12:17:19.543Z - info: Extensions location cache /tmp/jsreport/core/locations.json contains older information, crawling
+2024-03-14T12:17:19.731Z - info: Found 35 extension(s)
+2024-03-14T12:17:19.743Z - debug: Writing extension locations cache to /tmp/jsreport/core/locations.json
+2024-03-14T12:17:19.744Z - debug: Discovered 35 extensions
+2024-03-14T12:17:19.785Z - info: Using extension authentication@4.0.1
+2024-03-14T12:17:19.886Z - debug: Extension authentication@4.0.1 was disabled
+2024-03-14T12:17:19.887Z - info: Using extension base@4.0.0
+2024-03-14T12:17:19.889Z - info: Using extension child-templates@4.0.0
+2024-03-14T12:17:19.890Z - info: Using extension cli@4.0.2
+2024-03-14T12:17:19.891Z - info: Using extension components@4.0.0
+2024-03-14T12:17:19.892Z - info: Using extension data@4.0.0
+2024-03-14T12:17:19.893Z - debug: Extension express@4.0.1 is disabled, skipping
+2024-03-14T12:17:19.894Z - info: Using extension freeze@4.0.0
+2024-03-14T12:17:19.895Z - info: Using extension fs-store@4.0.1
+2024-03-14T12:17:19.976Z - debug: Extension fs-store@4.0.1 was disabled
+2024-03-14T12:17:19.976Z - info: Using extension handlebars@4.0.1
+2024-03-14T12:17:19.977Z - info: Using extension import-export@4.0.2
+2024-03-14T12:17:20.029Z - info: Using extension jsrender@4.0.0
+2024-03-14T12:17:20.030Z - info: Using extension licensing@4.0.1
+2024-03-14T12:17:20.042Z - info: Using extension localization@4.0.1
+2024-03-14T12:17:20.043Z - info: Using extension npm@4.0.0
+2024-03-14T12:17:20.045Z - info: Using extension pdf-utils@4.0.2
+2024-03-14T12:17:20.047Z - info: Using extension reports@4.0.0
+2024-03-14T12:17:20.050Z - info: Using extension tags@4.0.1
+2024-03-14T12:17:20.051Z - info: Using extension text@4.0.0
+2024-03-14T12:17:20.051Z - info: Using extension version-control@4.0.0
+2024-03-14T12:17:20.060Z - info: Using extension assets@4.0.2
+2024-03-14T12:17:20.068Z - info: Using extension authorization@4.0.0
+2024-03-14T12:17:20.070Z - debug: Extension authorization@4.0.0 was disabled
+2024-03-14T12:17:20.071Z - info: Using extension browser-client@4.0.0
+2024-03-14T12:17:20.072Z - info: Using extension chrome-pdf@4.0.0
+2024-03-14T12:17:20.074Z - debug: Chrome strategy is chrome-pool, numberOfWorkers: 1
+2024-03-14T12:17:20.074Z - info: Using extension docx@4.1.1
+2024-03-14T12:17:20.076Z - info: Using extension html-to-xlsx@4.0.1
+2024-03-14T12:17:20.264Z - info: html-to-xlsx detected chrome as available html engine
+2024-03-14T12:17:20.264Z - info: Using extension pptx@4.1.0
+2024-03-14T12:17:20.265Z - info: Using extension scheduling@4.0.0
+2024-03-14T12:17:20.291Z - info: Using extension scripts@4.0.0
+2024-03-14T12:17:20.292Z - info: Using extension static-pdf@4.0.0
+2024-03-14T12:17:20.293Z - debug: Extension studio@4.0.2 is disabled, skipping
+2024-03-14T12:17:20.293Z - info: Using extension xlsx@4.0.2
+2024-03-14T12:17:20.295Z - info: Using extension public-templates@4.0.0
+2024-03-14T12:17:20.296Z - debug: Extension public-templates@4.0.0 was disabled
+2024-03-14T12:17:20.296Z - info: Using extension sample-template@4.0.0
+2024-03-14T12:17:20.302Z - info: Using extension studio-theme-dark@4.0.0
+2024-03-14T12:17:20.304Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2024-03-14T12:17:20.304Z - info: Using memory provider for template store. The saved templates will be lost after restart
+2024-03-14T12:17:20.317Z - info: Verifying license key free
+2024-03-14T12:17:20.318Z - info: Using free license
+2024-03-14T12:17:20.326Z - info: Migrating templates chrome settings (waitForNetworkIddle -> waitForNetworkIdle)
+2024-03-14T12:17:20.327Z - info: Migration successful
+2024-03-14T12:17:20.328Z - debug: Creating samples is disabled
+2024-03-14T12:17:20.328Z - info: Initializing worker threads
+2024-03-14T12:17:20.328Z - debug: Extensions in workers: base, child-templates, components, data, handlebars, jsrender, localization, npm, pdf-utils, reports, text, version-control, assets, browser-client, chrome-pdf, docx, html-to-xlsx, pptx, scripts, static-pdf, xlsx
+2024-03-14T12:17:20.937Z - info: 2 worker threads initialized in 609ms
+2024-03-14T12:17:20.937Z - info: Starting temp files cleanup with 180000ms threshold
+2024-03-14T12:17:20.938Z - info: reporter initialized
+2024-03-14T12:17:22.943Z - info: Render request 1 queued for execution and waiting for available worker rootId=t6vgkus9l8ybcjm, id=t6vgkus9l8ybcjm
+2024-03-14T12:17:22.989Z - info: Starting rendering request 1 rootId=t6vgkus9l8ybcjm, id=t6vgkus9l8ybcjm
+2024-03-14T12:17:22.990Z - info: Rendering anonymous template { recipe: phantom-pdf, engine: handlebars } rootId=t6vgkus9l8ybcjm, id=t6vgkus9l8ybcjm
+2024-03-14T12:17:22.991Z - debug: Data item not defined for this template. rootId=t6vgkus9l8ybcjm, id=t6vgkus9l8ybcjm
+2024-03-14T12:17:22.991Z - debug: Base url not specified, skipping its injection. rootId=t6vgkus9l8ybcjm, id=t6vgkus9l8ybcjm
+2024-03-14T12:17:22.991Z - debug: Rendering engine handlebars rootId=t6vgkus9l8ybcjm, id=t6vgkus9l8ybcjm
+2024-03-14T12:17:23.411Z - warn: Error when processing render request 1
+(because) recipe 'phantom-pdf' not found. If this is a custom recipe make sure it's properly installed from npm.
+Error: Recipe 'phantom-pdf' not found. If this is a custom recipe make sure it's properly installed from npm.
+  at module.exports (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+  at WorkerReporter.createError (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/shared/reporter.js:49:12)
+  at invokeRender (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:81:22)
+  at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+  at async WorkerReporter._render (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:142:7)
+  at async /home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/worker/reporter.js:224:19
+  at async processAndResponse (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/advanced-workers/lib/workerHandler.js:41:17) rootId=t6vgkus9l8ybcjm, id=t6vgkus9l8ybcjm
+2024-03-14T12:17:23.412Z - warn: Rendering request 1 finished with error in 470 ms rootId=t6vgkus9l8ybcjm, id=t6vgkus9l8ybcjm
+2024-03-14T12:18:02.605Z - info: Initializing jsreport (version: 4.2.0, configuration file: none, nodejs: 18.16.1)
+2024-03-14T12:18:02.607Z - info: Searching for available extensions in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-14T12:18:02.610Z - info: Extensions location cache /tmp/jsreport/core/locations.json contains older information, crawling
+2024-03-14T12:18:02.817Z - info: Found 36 extension(s)
+2024-03-14T12:18:02.828Z - debug: Writing extension locations cache to /tmp/jsreport/core/locations.json
+2024-03-14T12:18:02.829Z - debug: Discovered 36 extensions
+2024-03-14T12:18:02.873Z - info: Using extension authentication@4.0.1
+2024-03-14T12:18:02.962Z - debug: Extension authentication@4.0.1 was disabled
+2024-03-14T12:18:02.963Z - info: Using extension base@4.0.0
+2024-03-14T12:18:02.965Z - info: Using extension child-templates@4.0.0
+2024-03-14T12:18:02.966Z - info: Using extension cli@4.0.2
+2024-03-14T12:18:02.967Z - info: Using extension components@4.0.0
+2024-03-14T12:18:02.968Z - info: Using extension data@4.0.0
+2024-03-14T12:18:02.969Z - debug: Extension express@4.0.1 is disabled, skipping
+2024-03-14T12:18:02.969Z - info: Using extension freeze@4.0.0
+2024-03-14T12:18:02.970Z - info: Using extension fs-store@4.0.1
+2024-03-14T12:18:03.035Z - debug: Extension fs-store@4.0.1 was disabled
+2024-03-14T12:18:03.036Z - info: Using extension handlebars@4.0.1
+2024-03-14T12:18:03.037Z - info: Using extension import-export@4.0.2
+2024-03-14T12:18:03.090Z - info: Using extension jsrender@4.0.0
+2024-03-14T12:18:03.091Z - info: Using extension licensing@4.0.1
+2024-03-14T12:18:03.104Z - info: Using extension localization@4.0.1
+2024-03-14T12:18:03.105Z - info: Using extension npm@4.0.0
+2024-03-14T12:18:03.108Z - info: Using extension pdf-utils@4.0.2
+2024-03-14T12:18:03.110Z - info: Using extension phantom-pdf@4.1.0
+2024-03-14T12:18:03.112Z - info: Using extension reports@4.0.0
+2024-03-14T12:18:03.114Z - info: Using extension tags@4.0.1
+2024-03-14T12:18:03.115Z - info: Using extension text@4.0.0
+2024-03-14T12:18:03.116Z - info: Using extension version-control@4.0.0
+2024-03-14T12:18:03.124Z - info: Using extension assets@4.0.2
+2024-03-14T12:18:03.132Z - info: Using extension authorization@4.0.0
+2024-03-14T12:18:03.133Z - debug: Extension authorization@4.0.0 was disabled
+2024-03-14T12:18:03.134Z - info: Using extension browser-client@4.0.0
+2024-03-14T12:18:03.135Z - info: Using extension chrome-pdf@4.0.0
+2024-03-14T12:18:03.137Z - debug: Chrome strategy is chrome-pool, numberOfWorkers: 1
+2024-03-14T12:18:03.138Z - info: Using extension docx@4.1.1
+2024-03-14T12:18:03.139Z - info: Using extension html-to-xlsx@4.0.1
+2024-03-14T12:18:03.346Z - info: html-to-xlsx detected chrome as available html engine
+2024-03-14T12:18:03.346Z - info: Using extension pptx@4.1.0
+2024-03-14T12:18:03.347Z - info: Using extension scheduling@4.0.0
+2024-03-14T12:18:03.372Z - info: Using extension scripts@4.0.0
+2024-03-14T12:18:03.373Z - info: Using extension static-pdf@4.0.0
+2024-03-14T12:18:03.373Z - debug: Extension studio@4.0.2 is disabled, skipping
+2024-03-14T12:18:03.374Z - info: Using extension xlsx@4.0.2
+2024-03-14T12:18:03.375Z - info: Using extension public-templates@4.0.0
+2024-03-14T12:18:03.375Z - debug: Extension public-templates@4.0.0 was disabled
+2024-03-14T12:18:03.376Z - info: Using extension sample-template@4.0.0
+2024-03-14T12:18:03.377Z - info: Using extension studio-theme-dark@4.0.0
+2024-03-14T12:18:03.378Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2024-03-14T12:18:03.378Z - info: Using memory provider for template store. The saved templates will be lost after restart
+2024-03-14T12:18:03.393Z - info: Verifying license key free
+2024-03-14T12:18:03.393Z - info: Using free license
+2024-03-14T12:18:03.400Z - info: Migrating templates chrome settings (waitForNetworkIddle -> waitForNetworkIdle)
+2024-03-14T12:18:03.401Z - info: Migration successful
+2024-03-14T12:18:03.401Z - debug: Creating samples is disabled
+2024-03-14T12:18:03.401Z - info: Initializing worker threads
+2024-03-14T12:18:03.401Z - debug: Extensions in workers: base, child-templates, components, data, handlebars, jsrender, localization, npm, pdf-utils, phantom-pdf, reports, text, version-control, assets, browser-client, chrome-pdf, docx, html-to-xlsx, pptx, scripts, static-pdf, xlsx
+2024-03-14T12:18:04.018Z - info: 2 worker threads initialized in 617ms
+2024-03-14T12:18:04.018Z - info: Starting temp files cleanup with 180000ms threshold
+2024-03-14T12:18:04.019Z - info: reporter initialized
+2024-03-14T12:18:05.894Z - info: Render request 1 queued for execution and waiting for available worker rootId=dffsijf6hfayi32, id=dffsijf6hfayi32
+2024-03-14T12:18:05.967Z - info: Starting rendering request 1 rootId=dffsijf6hfayi32, id=dffsijf6hfayi32
+2024-03-14T12:18:05.968Z - info: Rendering anonymous template { recipe: phantom-pdf, engine: handlebars } rootId=dffsijf6hfayi32, id=dffsijf6hfayi32
+2024-03-14T12:18:05.968Z - debug: Data item not defined for this template. rootId=dffsijf6hfayi32, id=dffsijf6hfayi32
+2024-03-14T12:18:05.968Z - debug: Base url not specified, skipping its injection. rootId=dffsijf6hfayi32, id=dffsijf6hfayi32
+2024-03-14T12:18:05.969Z - debug: Rendering engine handlebars rootId=dffsijf6hfayi32, id=dffsijf6hfayi32
+2024-03-14T12:18:06.375Z - debug: Executing recipe phantom-pdf rootId=dffsijf6hfayi32, id=dffsijf6hfayi32
+2024-03-14T12:18:06.376Z - error: Error when processing render request 1
+(because) cannot read properties of undefined (reading 'getBuffer')
+TypeError: Cannot read properties of undefined (reading 'getBuffer')
+  at module.exports (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-phantom-pdf/lib/recipe.js:50:39)
+  at Object.execute (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-phantom-pdf/lib/worker.js:10:47)
+  at invokeRender (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:94:18)
+  at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+  at async WorkerReporter._render (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:142:7)
+  at async /home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/worker/reporter.js:224:19
+  at async processAndResponse (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/advanced-workers/lib/workerHandler.js:41:17) rootId=dffsijf6hfayi32, id=dffsijf6hfayi32
+2024-03-14T12:18:06.376Z - error: Rendering request 1 finished with error in 488 ms rootId=dffsijf6hfayi32, id=dffsijf6hfayi32
+2024-03-17T02:17:22.188Z - info: Initializing jsreport (version: 4.3.0, configuration file: none, nodejs: 18.16.1)
+2024-03-17T02:17:22.191Z - info: Searching for available extensions in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-17T02:17:22.214Z - info: Extensions location cache /tmp/jsreport/core/locations.json contains older information, crawling
+2024-03-17T02:17:22.454Z - info: Found 35 extension(s)
+2024-03-17T02:17:22.467Z - debug: Writing extension locations cache to /tmp/jsreport/core/locations.json
+2024-03-17T02:17:22.469Z - debug: Discovered 35 extensions
+2024-03-17T02:17:22.514Z - error: Error occurred during reporter init: Error: Error when loading extension handlebars@2.1.0
+Error: Extension "handlebars" is not compatible with "core" extension. Missing ".requires" information in "handlebars" definition
+    at validateMinimalVersion (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/validateMinimalVersion.js:24:11)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:158:9)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:206:36)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:248:15)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:206:36)
+2024-03-17T02:18:05.883Z - info: Initializing jsreport (version: 4.3.0, configuration file: none, nodejs: 18.16.1)
+2024-03-17T02:18:05.886Z - info: Searching for available extensions in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-17T02:18:05.892Z - info: Extensions location cache contains up to date information, skipping crawling in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-17T02:18:05.895Z - info: Found 35 extension(s)
+2024-03-17T02:18:05.908Z - debug: Writing extension locations cache to /tmp/jsreport/core/locations.json
+2024-03-17T02:18:05.909Z - debug: Discovered 35 extensions
+2024-03-17T02:18:05.969Z - error: Error occurred during reporter init: Error: Error when loading extension handlebars@2.1.0
+Error: Extension "handlebars" is not compatible with "core" extension. Missing ".requires" information in "handlebars" definition
+    at validateMinimalVersion (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/validateMinimalVersion.js:24:11)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:158:9)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:206:36)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:248:15)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:206:36)
+2024-03-17T02:18:49.053Z - info: Initializing jsreport (version: 4.3.0, configuration file: none, nodejs: 18.16.1)
+2024-03-17T02:18:49.055Z - info: Searching for available extensions in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-17T02:18:49.060Z - info: Extensions location cache /tmp/jsreport/core/locations.json contains older information, crawling
+2024-03-17T02:18:49.277Z - info: Found 35 extension(s)
+2024-03-17T02:18:49.290Z - debug: Writing extension locations cache to /tmp/jsreport/core/locations.json
+2024-03-17T02:18:49.291Z - debug: Discovered 35 extensions
+2024-03-17T02:18:49.339Z - error: Error occurred during reporter init: Error: Error when loading extension handlebars@2.1.0
+Error: Extension "handlebars" is not compatible with "core" extension. Missing ".requires" information in "handlebars" definition
+    at validateMinimalVersion (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/validateMinimalVersion.js:24:11)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:158:9)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:206:36)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:248:15)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:206:36)
+2024-03-17T02:19:31.682Z - info: Initializing jsreport (version: 4.3.0, configuration file: none, nodejs: 18.16.1)
+2024-03-17T02:19:31.685Z - info: Searching for available extensions in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-17T02:19:31.689Z - info: Extensions location cache /tmp/jsreport/core/locations.json contains older information, crawling
+2024-03-17T02:19:31.928Z - info: Found 35 extension(s)
+2024-03-17T02:19:31.941Z - debug: Writing extension locations cache to /tmp/jsreport/core/locations.json
+2024-03-17T02:19:31.943Z - debug: Discovered 35 extensions
+2024-03-17T02:19:31.990Z - info: Using extension authentication@4.1.0
+2024-03-17T02:19:32.101Z - debug: Extension authentication@4.1.0 was disabled
+2024-03-17T02:19:32.102Z - info: Using extension base@4.0.0
+2024-03-17T02:19:32.104Z - info: Using extension child-templates@4.1.0
+2024-03-17T02:19:32.105Z - info: Using extension cli@4.0.3
+2024-03-17T02:19:32.107Z - info: Using extension components@4.0.0
+2024-03-17T02:19:32.108Z - info: Using extension data@4.1.0
+2024-03-17T02:19:32.109Z - info: Using extension express@4.1.0
+2024-03-17T02:19:32.230Z - info: Using extension freeze@4.0.0
+2024-03-17T02:19:32.232Z - info: Using extension fs-store@4.0.2
+2024-03-17T02:19:32.307Z - debug: Extension fs-store@4.0.2 was disabled
+2024-03-17T02:19:32.308Z - info: Using extension handlebars@4.0.1
+2024-03-17T02:19:32.309Z - info: Using extension import-export@4.0.3
+2024-03-17T02:19:32.317Z - info: Using extension jsrender@4.0.0
+2024-03-17T02:19:32.318Z - info: Using extension licensing@4.0.2
+2024-03-17T02:19:32.335Z - info: Using extension localization@4.0.1
+2024-03-17T02:19:32.335Z - info: Using extension npm@4.0.0
+2024-03-17T02:19:32.341Z - info: Using extension pdf-utils@4.1.1
+2024-03-17T02:19:32.342Z - info: Using extension reports@4.1.0
+2024-03-17T02:19:32.344Z - info: Using extension tags@4.0.1
+2024-03-17T02:19:32.346Z - info: Using extension text@4.0.0
+2024-03-17T02:19:32.347Z - info: Using extension version-control@4.0.0
+2024-03-17T02:19:32.357Z - info: Using extension assets@4.1.0
+2024-03-17T02:19:32.365Z - info: Using extension authorization@4.0.0
+2024-03-17T02:19:32.367Z - debug: Extension authorization@4.0.0 was disabled
+2024-03-17T02:19:32.368Z - info: Using extension browser-client@4.1.0
+2024-03-17T02:19:32.369Z - info: Using extension chrome-pdf@4.1.0
+2024-03-17T02:19:32.371Z - debug: Chrome strategy is chrome-pool, numberOfWorkers: 1
+2024-03-17T02:19:32.372Z - info: Using extension docx@4.2.0
+2024-03-17T02:19:32.374Z - info: Using extension html-to-xlsx@4.1.1
+2024-03-17T02:19:32.584Z - info: html-to-xlsx detected chrome as available html engine
+2024-03-17T02:19:32.584Z - info: Using extension pptx@4.2.0
+2024-03-17T02:19:32.586Z - info: Using extension scheduling@4.0.0
+2024-03-17T02:19:32.611Z - info: Using extension scripts@4.1.0
+2024-03-17T02:19:32.612Z - info: Using extension static-pdf@4.1.0
+2024-03-17T02:19:32.613Z - info: Using extension studio@4.1.0
+2024-03-17T02:19:32.662Z - info: Using extension xlsx@4.1.0
+2024-03-17T02:19:32.663Z - info: Using extension public-templates@4.0.0
+2024-03-17T02:19:32.664Z - debug: Extension public-templates@4.0.0 was disabled
+2024-03-17T02:19:32.664Z - info: Using extension sample-template@4.0.0
+2024-03-17T02:19:32.666Z - info: Using extension studio-theme-dark@4.0.0
+2024-03-17T02:19:32.667Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2024-03-17T02:19:32.667Z - info: Using memory provider for template store. The saved templates will be lost after restart
+2024-03-17T02:19:32.678Z - debug: studio default theme is: light
+2024-03-17T02:19:32.682Z - info: Creating default express app.
+2024-03-17T02:19:32.695Z - info: jsreport server successfully started on http port: 5488
+2024-03-17T02:19:32.700Z - info: Verifying license key free
+2024-03-17T02:19:32.702Z - info: Using free license
+2024-03-17T02:19:32.712Z - info: Migrating templates chrome settings (waitForNetworkIddle -> waitForNetworkIdle)
+2024-03-17T02:19:32.714Z - info: Migration successful
+2024-03-17T02:19:32.714Z - debug: Creating samples is disabled
+2024-03-17T02:19:32.715Z - info: Initializing worker threads
+2024-03-17T02:19:32.715Z - debug: Extensions in workers: base, child-templates, components, data, express, handlebars, jsrender, localization, npm, pdf-utils, reports, text, version-control, assets, browser-client, chrome-pdf, docx, html-to-xlsx, pptx, scripts, static-pdf, studio, xlsx
+2024-03-17T02:19:33.377Z - info: 2 worker threads initialized in 662ms
+2024-03-17T02:19:33.377Z - info: Starting temp files cleanup with 180000ms threshold
+2024-03-17T02:19:33.388Z - info: reporter initialized
+2024-03-17T02:19:45.120Z - info: Initializing jsreport (version: 4.3.0, configuration file: none, nodejs: 18.16.1)
+2024-03-17T02:19:45.122Z - info: Searching for available extensions in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-17T02:19:45.127Z - info: Extensions location cache contains up to date information, skipping crawling in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-17T02:19:45.130Z - info: Found 35 extension(s)
+2024-03-17T02:19:45.145Z - debug: Writing extension locations cache to /tmp/jsreport/core/locations.json
+2024-03-17T02:19:45.146Z - debug: Discovered 35 extensions
+2024-03-17T02:19:45.198Z - info: Using extension authentication@4.1.0
+2024-03-17T02:19:45.293Z - debug: Extension authentication@4.1.0 was disabled
+2024-03-17T02:19:45.293Z - info: Using extension base@4.0.0
+2024-03-17T02:19:45.296Z - info: Using extension child-templates@4.1.0
+2024-03-17T02:19:45.296Z - info: Using extension cli@4.0.3
+2024-03-17T02:19:45.298Z - info: Using extension components@4.0.0
+2024-03-17T02:19:45.299Z - info: Using extension data@4.1.0
+2024-03-17T02:19:45.300Z - info: Using extension express@4.1.0
+2024-03-17T02:19:45.427Z - info: Using extension freeze@4.0.0
+2024-03-17T02:19:45.429Z - info: Using extension fs-store@4.0.2
+2024-03-17T02:19:45.512Z - debug: Extension fs-store@4.0.2 was disabled
+2024-03-17T02:19:45.512Z - info: Using extension handlebars@4.0.1
+2024-03-17T02:19:45.514Z - info: Using extension import-export@4.0.3
+2024-03-17T02:19:45.519Z - info: Using extension jsrender@4.0.0
+2024-03-17T02:19:45.520Z - info: Using extension licensing@4.0.2
+2024-03-17T02:19:45.539Z - info: Using extension localization@4.0.1
+2024-03-17T02:19:45.541Z - info: Using extension npm@4.0.0
+2024-03-17T02:19:45.546Z - info: Using extension pdf-utils@4.1.1
+2024-03-17T02:19:45.547Z - info: Using extension reports@4.1.0
+2024-03-17T02:19:45.549Z - info: Using extension tags@4.0.1
+2024-03-17T02:19:45.550Z - info: Using extension text@4.0.0
+2024-03-17T02:19:45.551Z - info: Using extension version-control@4.0.0
+2024-03-17T02:19:45.560Z - info: Using extension assets@4.1.0
+2024-03-17T02:19:45.566Z - info: Using extension authorization@4.0.0
+2024-03-17T02:19:45.569Z - debug: Extension authorization@4.0.0 was disabled
+2024-03-17T02:19:45.569Z - info: Using extension browser-client@4.1.0
+2024-03-17T02:19:45.570Z - info: Using extension chrome-pdf@4.1.0
+2024-03-17T02:19:45.574Z - debug: Chrome strategy is chrome-pool, numberOfWorkers: 1
+2024-03-17T02:19:45.574Z - info: Using extension docx@4.2.0
+2024-03-17T02:19:45.576Z - info: Using extension html-to-xlsx@4.1.1
+2024-03-17T02:19:45.795Z - info: html-to-xlsx detected chrome as available html engine
+2024-03-17T02:19:45.798Z - info: Using extension pptx@4.2.0
+2024-03-17T02:19:45.800Z - info: Using extension scheduling@4.0.0
+2024-03-17T02:19:45.822Z - info: Using extension scripts@4.1.0
+2024-03-17T02:19:45.823Z - info: Using extension static-pdf@4.1.0
+2024-03-17T02:19:45.824Z - info: Using extension studio@4.1.0
+2024-03-17T02:19:45.881Z - info: Using extension xlsx@4.1.0
+2024-03-17T02:19:45.882Z - info: Using extension public-templates@4.0.0
+2024-03-17T02:19:45.883Z - debug: Extension public-templates@4.0.0 was disabled
+2024-03-17T02:19:45.883Z - info: Using extension sample-template@4.0.0
+2024-03-17T02:19:45.884Z - info: Using extension studio-theme-dark@4.0.0
+2024-03-17T02:19:45.885Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2024-03-17T02:19:45.886Z - info: Using memory provider for template store. The saved templates will be lost after restart
+2024-03-17T02:19:45.897Z - debug: studio default theme is: light
+2024-03-17T02:19:45.901Z - info: Creating default express app.
+2024-03-17T02:19:45.915Z - info: jsreport server successfully started on http port: 5488
+2024-03-17T02:19:45.920Z - info: Verifying license key free
+2024-03-17T02:19:45.923Z - info: Using free license
+2024-03-17T02:19:45.934Z - info: Migrating templates chrome settings (waitForNetworkIddle -> waitForNetworkIdle)
+2024-03-17T02:19:45.935Z - info: Migration successful
+2024-03-17T02:19:45.936Z - debug: Creating samples is disabled
+2024-03-17T02:19:45.937Z - info: Initializing worker threads
+2024-03-17T02:19:45.937Z - debug: Extensions in workers: base, child-templates, components, data, express, handlebars, jsrender, localization, npm, pdf-utils, reports, text, version-control, assets, browser-client, chrome-pdf, docx, html-to-xlsx, pptx, scripts, static-pdf, studio, xlsx
+2024-03-17T02:19:46.660Z - info: 2 worker threads initialized in 723ms
+2024-03-17T02:19:46.660Z - info: Starting temp files cleanup with 180000ms threshold
+2024-03-17T02:19:46.660Z - info: reporter initialized
+2024-03-17T02:19:47.669Z - info: Render request 1 queued for execution and waiting for available worker rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:47.732Z - info: Starting rendering request 1 rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:47.732Z - info: Rendering anonymous template { recipe: chrome-pdf, engine: handlebars } rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:47.733Z - debug: Inline data specified. rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:47.733Z - debug: Base url not specified, skipping its injection. rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:47.733Z - debug: Rendering engine handlebars rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:48.212Z - debug: Executing recipe chrome-pdf rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:48.816Z - debug: Converting with chrome Chrome/122.0.6261.111 using chrome-pool strategy rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:50.316Z - debug: Page request: GET (document) file:///tmp/jsreport/autocleanup/070fa741-24df-4178-bd27-5283a75fbaaa-chrome-pdf.html rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:50.417Z - debug: Page request: GET (stylesheet) https://fonts.cdnfonts.com/css/poppins rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:50.418Z - debug: Page request finished: GET (document) 200 file:///tmp/jsreport/autocleanup/070fa741-24df-4178-bd27-5283a75fbaaa-chrome-pdf.html rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:50.418Z - debug: Page request: GET (image) https://tienda.casamarket.pe/wp-content/uploads/2023/06/Place-Holder-v2.png rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:50.419Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170804820813960.jpg rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:50.420Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170623390708753.jpg rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:50.421Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170899940157166.jpg rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:50.422Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170839282905710.jpg rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:50.424Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170778960220047.jpg rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:50.424Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170744311453579.jpg rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:50.426Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/DURAZNO90.jpg rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:50.426Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/atrr61_image/atrr61_20610088342/SALMAS-HORNEADAS.png rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:50.427Z - debug: Page request: GET (image) https://firebasestorage.googleapis.com/v0/b/kyte-7c484.appspot.com/o/BiMeoC0bw8S39xYftkGmyXpkXBG2%2F135ef4dc-0aff-48ca-92d1-f3428b6c16a3.jpg?alt=media rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:50.918Z - debug: Page request finished: GET (stylesheet) 200 https://fonts.cdnfonts.com/css/poppins rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:51.018Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:51.018Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:51.019Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:51.019Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:51.117Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:51.118Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:51.218Z - debug: Page request finished: GET (image) 200 https://tienda.casamarket.pe/wp-content/uploads/2023/06/Place-Holder-v2.png rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:51.219Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170899940157166.jpg rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:51.318Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170778960220047.jpg rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:51.319Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170744311453579.jpg rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:51.320Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170623390708753.jpg rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:51.418Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170804820813960.jpg rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:51.419Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/DURAZNO90.jpg rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:51.519Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170839282905710.jpg rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:51.619Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:51.619Z - debug: Page request finished: GET (image) 200 https://firebasestorage.googleapis.com/v0/b/kyte-7c484.appspot.com/o/BiMeoC0bw8S39xYftkGmyXpkXBG2%2F135ef4dc-0aff-48ca-92d1-f3428b6c16a3.jpg?alt=media rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:51.719Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:51.720Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:51.721Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/atrr61_image/atrr61_20610088342/SALMAS-HORNEADAS.png rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:51.722Z - debug: Running chrome with params {"timeout":59502,"margin":{},"printBackground":true} rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:53.220Z - debug: Skipping storing report. rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:19:53.221Z - info: Rendering request 1 finished in 5554 ms rootId=r7xbkkuoquec8u5, id=r7xbkkuoquec8u5
+2024-03-17T02:20:34.631Z - info: Render request 2 queued for execution and waiting for available worker rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:34.675Z - info: Starting rendering request 2 rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:34.676Z - info: Rendering anonymous template { recipe: chrome-pdf, engine: handlebars } rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:34.676Z - debug: Inline data specified. rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:34.676Z - debug: Base url not specified, skipping its injection. rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:34.676Z - debug: Rendering engine handlebars rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:35.120Z - debug: Executing recipe chrome-pdf rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:35.422Z - debug: Converting with chrome Chrome/122.0.6261.111 using chrome-pool strategy rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:36.828Z - debug: Page request: GET (document) file:///tmp/jsreport/autocleanup/4c862e76-b4c9-4fea-9fc5-78c086d6f399-chrome-pdf.html rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:36.930Z - debug: Page request: GET (stylesheet) https://fonts.cdnfonts.com/css/poppins rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:36.931Z - debug: Page request: GET (image) https://hablemosdenegocios.pe/wp-content/uploads/2023/08/34153fbba2e2be2797f95221713fb80e7bad468e-3840x2160-min.png rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:36.931Z - debug: Page request: GET (image) https://tienda.casamarket.pe/wp-content/uploads/2023/06/Place-Holder-v2.png rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:36.932Z - debug: Page request finished: GET (document) 200 file:///tmp/jsreport/autocleanup/4c862e76-b4c9-4fea-9fc5-78c086d6f399-chrome-pdf.html rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:36.932Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170804820813960.jpg rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:36.933Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170623390708753.jpg rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:36.934Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170899940157166.jpg rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:36.935Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170839282905710.jpg rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:36.935Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170778960220047.jpg rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:36.935Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170744311453579.jpg rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:36.940Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/DURAZNO90.jpg rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:36.941Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/atrr61_image/atrr61_20610088342/SALMAS-HORNEADAS.png rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:36.942Z - debug: Page request: GET (image) https://firebasestorage.googleapis.com/v0/b/kyte-7c484.appspot.com/o/BiMeoC0bw8S39xYftkGmyXpkXBG2%2F135ef4dc-0aff-48ca-92d1-f3428b6c16a3.jpg?alt=media rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:37.230Z - debug: Page request finished: GET (stylesheet) 200 https://fonts.cdnfonts.com/css/poppins rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:37.330Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:37.331Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:37.331Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:37.332Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:37.332Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:37.332Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:37.430Z - debug: Page request finished: GET (image) 200 https://tienda.casamarket.pe/wp-content/uploads/2023/06/Place-Holder-v2.png rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:37.531Z - debug: Page request finished: GET (image) 200 https://hablemosdenegocios.pe/wp-content/uploads/2023/08/34153fbba2e2be2797f95221713fb80e7bad468e-3840x2160-min.png rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:37.730Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170899940157166.jpg rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:37.731Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170778960220047.jpg rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:37.831Z - debug: Page request finished: GET (image) 200 https://firebasestorage.googleapis.com/v0/b/kyte-7c484.appspot.com/o/BiMeoC0bw8S39xYftkGmyXpkXBG2%2F135ef4dc-0aff-48ca-92d1-f3428b6c16a3.jpg?alt=media rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:37.832Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170744311453579.jpg rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:37.833Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170623390708753.jpg rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:37.835Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/DURAZNO90.jpg rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:37.839Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170804820813960.jpg rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:37.931Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:37.931Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170839282905710.jpg rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:38.031Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:38.131Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:38.132Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/atrr61_image/atrr61_20610088342/SALMAS-HORNEADAS.png rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:38.133Z - debug: Running chrome with params {"timeout":59558,"margin":{},"printBackground":true} rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:39.349Z - debug: Skipping storing report. rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:20:39.349Z - info: Rendering request 2 finished in 4719 ms rootId=u7afmo6lzg1eow3, id=u7afmo6lzg1eow3
+2024-03-17T02:21:20.279Z - info: Render request 3 queued for execution and waiting for available worker rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.288Z - info: Starting rendering request 3 rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.288Z - info: Rendering anonymous template { recipe: chrome-pdf, engine: handlebars } rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.288Z - debug: Inline data specified. rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.289Z - debug: Base url not specified, skipping its injection. rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.289Z - debug: Rendering engine handlebars rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.357Z - debug: Executing recipe chrome-pdf rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.358Z - debug: Converting with chrome Chrome/122.0.6261.111 using chrome-pool strategy rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.358Z - debug: Page request: GET (document) file:///tmp/jsreport/autocleanup/eb5a5d88-9c84-47ab-8692-7a56ad0d998e-chrome-pdf.html rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.462Z - debug: Page request: GET (stylesheet) https://fonts.cdnfonts.com/css/poppins rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.463Z - debug: Page request: GET (image) https://hablemosdenegocios.pe/wp-content/uploads/2023/08/34153fbba2e2be2797f95221713fb80e7bad468e-3840x2160-min.png rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.463Z - debug: Page request: GET (image) https://tienda.casamarket.pe/wp-content/uploads/2023/06/Place-Holder-v2.png rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.464Z - debug: Page request finished: GET (document) 200 file:///tmp/jsreport/autocleanup/eb5a5d88-9c84-47ab-8692-7a56ad0d998e-chrome-pdf.html rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.464Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170804820813960.jpg rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.465Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170623390708753.jpg rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.465Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170899940157166.jpg rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.465Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170839282905710.jpg rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.466Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170778960220047.jpg rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.466Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170744311453579.jpg rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.467Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/DURAZNO90.jpg rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.468Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/atrr61_image/atrr61_20610088342/SALMAS-HORNEADAS.png rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.468Z - debug: Page request: GET (image) https://firebasestorage.googleapis.com/v0/b/kyte-7c484.appspot.com/o/BiMeoC0bw8S39xYftkGmyXpkXBG2%2F135ef4dc-0aff-48ca-92d1-f3428b6c16a3.jpg?alt=media rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.469Z - debug: Page request finished: GET (stylesheet) 200 https://fonts.cdnfonts.com/css/poppins rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.469Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.470Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.471Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.471Z - debug: Page request finished: GET (image) 200 https://tienda.casamarket.pe/wp-content/uploads/2023/06/Place-Holder-v2.png rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.472Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170804820813960.jpg rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.473Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170623390708753.jpg rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.473Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170899940157166.jpg rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.475Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170839282905710.jpg rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.475Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170778960220047.jpg rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.476Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170744311453579.jpg rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.477Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/DURAZNO90.jpg rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.477Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/atrr61_image/atrr61_20610088342/SALMAS-HORNEADAS.png rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.478Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.478Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.478Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.758Z - debug: Page request finished: GET (image) 200 https://firebasestorage.googleapis.com/v0/b/kyte-7c484.appspot.com/o/BiMeoC0bw8S39xYftkGmyXpkXBG2%2F135ef4dc-0aff-48ca-92d1-f3428b6c16a3.jpg?alt=media rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.958Z - debug: Page request finished: GET (image) 200 https://hablemosdenegocios.pe/wp-content/uploads/2023/08/34153fbba2e2be2797f95221713fb80e7bad468e-3840x2160-min.png rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:20.959Z - debug: Running chrome with params {"timeout":59965,"margin":{},"printBackground":true} rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:22.220Z - debug: Skipping storing report. rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:21:22.220Z - info: Rendering request 3 finished in 1942 ms rootId=lltxmznd45gymu4, id=lltxmznd45gymu4
+2024-03-17T02:22:10.132Z - info: Initializing jsreport (version: 4.3.0, configuration file: none, nodejs: 18.16.1)
+2024-03-17T02:22:10.134Z - info: Searching for available extensions in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-17T02:22:10.139Z - info: Extensions location cache contains up to date information, skipping crawling in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-17T02:22:10.142Z - info: Found 35 extension(s)
+2024-03-17T02:22:10.157Z - debug: Writing extension locations cache to /tmp/jsreport/core/locations.json
+2024-03-17T02:22:10.159Z - debug: Discovered 35 extensions
+2024-03-17T02:22:10.216Z - info: Using extension authentication@4.1.0
+2024-03-17T02:22:10.306Z - debug: Extension authentication@4.1.0 was disabled
+2024-03-17T02:22:10.306Z - info: Using extension base@4.0.0
+2024-03-17T02:22:10.309Z - info: Using extension child-templates@4.1.0
+2024-03-17T02:22:10.310Z - info: Using extension cli@4.0.3
+2024-03-17T02:22:10.311Z - info: Using extension components@4.0.0
+2024-03-17T02:22:10.312Z - info: Using extension data@4.1.0
+2024-03-17T02:22:10.313Z - info: Using extension express@4.1.0
+2024-03-17T02:22:10.436Z - info: Using extension freeze@4.0.0
+2024-03-17T02:22:10.437Z - info: Using extension fs-store@4.0.2
+2024-03-17T02:22:10.506Z - debug: Extension fs-store@4.0.2 was disabled
+2024-03-17T02:22:10.507Z - info: Using extension handlebars@4.0.1
+2024-03-17T02:22:10.508Z - info: Using extension import-export@4.0.3
+2024-03-17T02:22:10.513Z - info: Using extension jsrender@4.0.0
+2024-03-17T02:22:10.514Z - info: Using extension licensing@4.0.2
+2024-03-17T02:22:10.528Z - info: Using extension localization@4.0.1
+2024-03-17T02:22:10.529Z - info: Using extension npm@4.0.0
+2024-03-17T02:22:10.532Z - info: Using extension pdf-utils@4.1.1
+2024-03-17T02:22:10.534Z - info: Using extension reports@4.1.0
+2024-03-17T02:22:10.536Z - info: Using extension tags@4.0.1
+2024-03-17T02:22:10.537Z - info: Using extension text@4.0.0
+2024-03-17T02:22:10.537Z - info: Using extension version-control@4.0.0
+2024-03-17T02:22:10.545Z - info: Using extension assets@4.1.0
+2024-03-17T02:22:10.552Z - info: Using extension authorization@4.0.0
+2024-03-17T02:22:10.555Z - debug: Extension authorization@4.0.0 was disabled
+2024-03-17T02:22:10.555Z - info: Using extension browser-client@4.1.0
+2024-03-17T02:22:10.556Z - info: Using extension chrome-pdf@4.1.0
+2024-03-17T02:22:10.559Z - debug: Chrome strategy is chrome-pool, numberOfWorkers: 1
+2024-03-17T02:22:10.560Z - info: Using extension docx@4.2.0
+2024-03-17T02:22:10.562Z - info: Using extension html-to-xlsx@4.1.1
+2024-03-17T02:22:10.783Z - info: html-to-xlsx detected chrome as available html engine
+2024-03-17T02:22:10.783Z - info: Using extension pptx@4.2.0
+2024-03-17T02:22:10.787Z - info: Using extension scheduling@4.0.0
+2024-03-17T02:22:10.814Z - info: Using extension scripts@4.1.0
+2024-03-17T02:22:10.815Z - info: Using extension static-pdf@4.1.0
+2024-03-17T02:22:10.816Z - info: Using extension studio@4.1.0
+2024-03-17T02:22:10.867Z - info: Using extension xlsx@4.1.0
+2024-03-17T02:22:10.868Z - info: Using extension public-templates@4.0.0
+2024-03-17T02:22:10.869Z - debug: Extension public-templates@4.0.0 was disabled
+2024-03-17T02:22:10.869Z - info: Using extension sample-template@4.0.0
+2024-03-17T02:22:10.870Z - info: Using extension studio-theme-dark@4.0.0
+2024-03-17T02:22:10.871Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2024-03-17T02:22:10.871Z - info: Using memory provider for template store. The saved templates will be lost after restart
+2024-03-17T02:22:10.882Z - debug: studio default theme is: light
+2024-03-17T02:22:10.885Z - info: Creating default express app.
+2024-03-17T02:22:10.901Z - info: jsreport server successfully started on http port: 5488
+2024-03-17T02:22:10.906Z - info: Verifying license key free
+2024-03-17T02:22:10.908Z - info: Using free license
+2024-03-17T02:22:10.919Z - info: Migrating templates chrome settings (waitForNetworkIddle -> waitForNetworkIdle)
+2024-03-17T02:22:10.920Z - info: Migration successful
+2024-03-17T02:22:10.921Z - debug: Creating samples is disabled
+2024-03-17T02:22:10.923Z - info: Initializing worker threads
+2024-03-17T02:22:10.923Z - debug: Extensions in workers: base, child-templates, components, data, express, handlebars, jsrender, localization, npm, pdf-utils, reports, text, version-control, assets, browser-client, chrome-pdf, docx, html-to-xlsx, pptx, scripts, static-pdf, studio, xlsx
+2024-03-17T02:22:11.622Z - info: 2 worker threads initialized in 699ms
+2024-03-17T02:22:11.622Z - info: Starting temp files cleanup with 180000ms threshold
+2024-03-17T02:22:11.623Z - info: reporter initialized
+2024-03-17T02:22:24.834Z - info: Render request 1 queued for execution and waiting for available worker rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:24.887Z - info: Starting rendering request 1 rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:24.887Z - info: Rendering anonymous template { recipe: chrome-pdf, engine: handlebars } rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:24.887Z - debug: Inline data specified. rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:24.887Z - debug: Base url not specified, skipping its injection. rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:24.887Z - debug: Rendering engine handlebars rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:25.321Z - debug: Executing recipe chrome-pdf rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:25.621Z - debug: Converting with chrome Chrome/122.0.6261.111 using chrome-pool strategy rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:27.529Z - debug: Page request: GET (document) file:///tmp/jsreport/autocleanup/a8c486d6-b02d-4504-8a0f-2b75955084ee-chrome-pdf.html rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:27.530Z - debug: Page request finished: GET (document) 200 file:///tmp/jsreport/autocleanup/a8c486d6-b02d-4504-8a0f-2b75955084ee-chrome-pdf.html rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:27.531Z - debug: Page request: GET (stylesheet) https://fonts.cdnfonts.com/css/poppins rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:27.531Z - debug: Page request: GET (image) https://hablemosdenegocios.pe/wp-content/uploads/2023/08/34153fbba2e2be2797f95221713fb80e7bad468e-3840x2160-min.png rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:27.531Z - debug: Page request: GET (image) https://tienda.casamarket.pe/wp-content/uploads/2023/06/Place-Holder-v2.png rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:27.532Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170804820813960.jpg rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:27.533Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170623390708753.jpg rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:27.533Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170899940157166.jpg rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:27.533Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170839282905710.jpg rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:27.533Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170778960220047.jpg rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:27.534Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170744311453579.jpg rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:27.534Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/DURAZNO90.jpg rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:27.534Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/atrr61_image/atrr61_20610088342/SALMAS-HORNEADAS.png rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:27.534Z - debug: Page request: GET (image) https://firebasestorage.googleapis.com/v0/b/kyte-7c484.appspot.com/o/BiMeoC0bw8S39xYftkGmyXpkXBG2%2F135ef4dc-0aff-48ca-92d1-f3428b6c16a3.jpg?alt=media rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:27.829Z - debug: Page request finished: GET (stylesheet) 200 https://fonts.cdnfonts.com/css/poppins rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:27.929Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:27.930Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:27.931Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:27.931Z - debug: Page request finished: GET (image) 200 https://hablemosdenegocios.pe/wp-content/uploads/2023/08/34153fbba2e2be2797f95221713fb80e7bad468e-3840x2160-min.png rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:27.931Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:27.932Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:27.932Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:28.232Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170778960220047.jpg rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:28.332Z - debug: Page request finished: GET (image) 200 https://tienda.casamarket.pe/wp-content/uploads/2023/06/Place-Holder-v2.png rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:28.333Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170899940157166.jpg rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:28.334Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170623390708753.jpg rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:28.335Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170744311453579.jpg rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:28.335Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170804820813960.jpg rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:28.336Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/DURAZNO90.jpg rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:28.337Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170839282905710.jpg rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:28.432Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:28.433Z - debug: Page request finished: GET (image) 200 https://firebasestorage.googleapis.com/v0/b/kyte-7c484.appspot.com/o/BiMeoC0bw8S39xYftkGmyXpkXBG2%2F135ef4dc-0aff-48ca-92d1-f3428b6c16a3.jpg?alt=media rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:28.434Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:28.531Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:28.934Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/atrr61_image/atrr61_20610088342/SALMAS-HORNEADAS.png rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:29.034Z - debug: Running chrome with params {"timeout":59556,"margin":{},"printBackground":true} rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:30.222Z - debug: Skipping storing report. rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:22:30.223Z - info: Rendering request 1 finished in 5393 ms rootId=tx9mnl3lo3z6hi3, id=tx9mnl3lo3z6hi3
+2024-03-17T02:23:23.704Z - info: Render request 2 queued for execution and waiting for available worker rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:23.766Z - info: Starting rendering request 2 rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:23.766Z - info: Rendering anonymous template { recipe: chrome-pdf, engine: handlebars } rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:23.766Z - debug: Inline data specified. rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:23.767Z - debug: Base url not specified, skipping its injection. rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:23.767Z - debug: Rendering engine handlebars rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:24.216Z - debug: Executing recipe chrome-pdf rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:24.517Z - debug: Converting with chrome Chrome/122.0.6261.111 using chrome-pool strategy rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:26.122Z - debug: Page request: GET (document) file:///tmp/jsreport/autocleanup/af5743a1-001c-4b73-8514-d51a2c53999e-chrome-pdf.html rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:26.223Z - debug: Page request: GET (stylesheet) https://fonts.cdnfonts.com/css/poppins rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:26.223Z - debug: Page request: GET (image) https://hablemosdenegocios.pe/wp-content/uploads/2023/08/34153fbba2e2be2797f95221713fb80e7bad468e-3840x2160-min.png rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:26.224Z - debug: Page request: GET (image) https://tienda.casamarket.pe/wp-content/uploads/2023/06/Place-Holder-v2.png rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:26.225Z - debug: Page request finished: GET (document) 200 file:///tmp/jsreport/autocleanup/af5743a1-001c-4b73-8514-d51a2c53999e-chrome-pdf.html rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:26.226Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170804820813960.jpg rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:26.227Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170623390708753.jpg rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:26.228Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170899940157166.jpg rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:26.228Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170839282905710.jpg rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:26.229Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170778960220047.jpg rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:26.229Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170744311453579.jpg rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:26.230Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/DURAZNO90.jpg rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:26.230Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/atrr61_image/atrr61_20610088342/SALMAS-HORNEADAS.png rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:26.231Z - debug: Page request: GET (image) https://firebasestorage.googleapis.com/v0/b/kyte-7c484.appspot.com/o/BiMeoC0bw8S39xYftkGmyXpkXBG2%2F135ef4dc-0aff-48ca-92d1-f3428b6c16a3.jpg?alt=media rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:26.621Z - debug: Page request finished: GET (stylesheet) 200 https://fonts.cdnfonts.com/css/poppins rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:26.723Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:26.724Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:26.725Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:26.726Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:26.727Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:26.728Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:26.821Z - debug: Page request finished: GET (image) 200 https://hablemosdenegocios.pe/wp-content/uploads/2023/08/34153fbba2e2be2797f95221713fb80e7bad468e-3840x2160-min.png rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:26.922Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170899940157166.jpg rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:26.923Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170778960220047.jpg rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:26.924Z - debug: Page request finished: GET (image) 200 https://tienda.casamarket.pe/wp-content/uploads/2023/06/Place-Holder-v2.png rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:27.025Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170623390708753.jpg rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:27.028Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170804820813960.jpg rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:27.029Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/DURAZNO90.jpg rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:27.030Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170744311453579.jpg rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:27.124Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170839282905710.jpg rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:27.225Z - debug: Page request finished: GET (image) 200 https://firebasestorage.googleapis.com/v0/b/kyte-7c484.appspot.com/o/BiMeoC0bw8S39xYftkGmyXpkXBG2%2F135ef4dc-0aff-48ca-92d1-f3428b6c16a3.jpg?alt=media rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:27.226Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:27.325Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:27.326Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/atrr61_image/atrr61_20610088342/SALMAS-HORNEADAS.png rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:27.327Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:27.425Z - debug: Running chrome with params {"timeout":59531,"margin":{},"printBackground":true} rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:28.559Z - debug: Skipping storing report. rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:23:28.560Z - info: Rendering request 2 finished in 4857 ms rootId=ylhrsxwa733700w, id=ylhrsxwa733700w
+2024-03-17T02:26:07.619Z - info: Render request 3 queued for execution and waiting for available worker rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.657Z - info: Starting rendering request 3 rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.658Z - info: Rendering anonymous template { recipe: chrome-pdf, engine: handlebars } rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.659Z - debug: Inline data specified. rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.660Z - debug: Base url not specified, skipping its injection. rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.661Z - debug: Rendering engine handlebars rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.807Z - debug: Executing recipe chrome-pdf rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.807Z - debug: Converting with chrome Chrome/122.0.6261.111 using chrome-pool strategy rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.808Z - debug: Page request: GET (document) file:///tmp/jsreport/autocleanup/6d8b5656-4870-4fa6-9525-bb455db576ee-chrome-pdf.html rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.808Z - debug: Page request: GET (stylesheet) https://fonts.cdnfonts.com/css/poppins rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.808Z - debug: Page request: GET (image) https://hablemosdenegocios.pe/wp-content/uploads/2023/08/34153fbba2e2be2797f95221713fb80e7bad468e-3840x2160-min.png rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.810Z - debug: Page request: GET (image) https://tienda.casamarket.pe/wp-content/uploads/2023/06/Place-Holder-v2.png rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.810Z - debug: Page request finished: GET (document) 200 file:///tmp/jsreport/autocleanup/6d8b5656-4870-4fa6-9525-bb455db576ee-chrome-pdf.html rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.810Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170804820813960.jpg rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.810Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170623390708753.jpg rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.810Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170899940157166.jpg rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.810Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170839282905710.jpg rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.810Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170778960220047.jpg rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.811Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170744311453579.jpg rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.811Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/DURAZNO90.jpg rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.811Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/atrr61_image/atrr61_20610088342/SALMAS-HORNEADAS.png rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.811Z - debug: Page request: GET (image) https://firebasestorage.googleapis.com/v0/b/kyte-7c484.appspot.com/o/BiMeoC0bw8S39xYftkGmyXpkXBG2%2F135ef4dc-0aff-48ca-92d1-f3428b6c16a3.jpg?alt=media rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.812Z - debug: Page request finished: GET (stylesheet) 200 https://fonts.cdnfonts.com/css/poppins rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.812Z - debug: Page request finished: GET (image) 200 https://hablemosdenegocios.pe/wp-content/uploads/2023/08/34153fbba2e2be2797f95221713fb80e7bad468e-3840x2160-min.png rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.812Z - debug: Page request finished: GET (image) 200 https://tienda.casamarket.pe/wp-content/uploads/2023/06/Place-Holder-v2.png rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.907Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.907Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.908Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.908Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170804820813960.jpg rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.908Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170623390708753.jpg rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.908Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170899940157166.jpg rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.908Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170839282905710.jpg rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.908Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170778960220047.jpg rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.909Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170744311453579.jpg rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.909Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/DURAZNO90.jpg rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.909Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/atrr61_image/atrr61_20610088342/SALMAS-HORNEADAS.png rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.909Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.909Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:07.909Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:08.308Z - debug: Page request finished: GET (image) 200 https://firebasestorage.googleapis.com/v0/b/kyte-7c484.appspot.com/o/BiMeoC0bw8S39xYftkGmyXpkXBG2%2F135ef4dc-0aff-48ca-92d1-f3428b6c16a3.jpg?alt=media rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:08.309Z - debug: Running chrome with params {"timeout":59879,"margin":{},"printBackground":true} rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:09.534Z - debug: Skipping storing report. rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:26:09.534Z - info: Rendering request 3 finished in 1917 ms rootId=gksi8zxh7irfiwq, id=gksi8zxh7irfiwq
+2024-03-17T02:30:27.039Z - info: Initializing jsreport (version: 4.3.0, configuration file: none, nodejs: 18.16.1)
+2024-03-17T02:30:27.042Z - info: Searching for available extensions in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-17T02:30:27.049Z - info: Extensions location cache contains up to date information, skipping crawling in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-17T02:30:27.052Z - info: Found 35 extension(s)
+2024-03-17T02:30:27.067Z - debug: Writing extension locations cache to /tmp/jsreport/core/locations.json
+2024-03-17T02:30:27.069Z - debug: Discovered 35 extensions
+2024-03-17T02:30:27.128Z - info: Using extension authentication@4.1.0
+2024-03-17T02:30:27.227Z - debug: Extension authentication@4.1.0 was disabled
+2024-03-17T02:30:27.228Z - info: Using extension base@4.0.0
+2024-03-17T02:30:27.231Z - info: Using extension child-templates@4.1.0
+2024-03-17T02:30:27.232Z - info: Using extension cli@4.0.3
+2024-03-17T02:30:27.235Z - info: Using extension components@4.0.0
+2024-03-17T02:30:27.236Z - info: Using extension data@4.1.0
+2024-03-17T02:30:27.237Z - info: Using extension express@4.1.0
+2024-03-17T02:30:27.365Z - info: Using extension freeze@4.0.0
+2024-03-17T02:30:27.367Z - info: Using extension fs-store@4.0.2
+2024-03-17T02:30:27.443Z - debug: Extension fs-store@4.0.2 was disabled
+2024-03-17T02:30:27.444Z - info: Using extension handlebars@4.0.1
+2024-03-17T02:30:27.445Z - info: Using extension import-export@4.0.3
+2024-03-17T02:30:27.451Z - info: Using extension jsrender@4.0.0
+2024-03-17T02:30:27.452Z - info: Using extension licensing@4.0.2
+2024-03-17T02:30:27.464Z - info: Using extension localization@4.0.1
+2024-03-17T02:30:27.465Z - info: Using extension npm@4.0.0
+2024-03-17T02:30:27.470Z - info: Using extension pdf-utils@4.1.1
+2024-03-17T02:30:27.472Z - info: Using extension reports@4.1.0
+2024-03-17T02:30:27.474Z - info: Using extension tags@4.0.1
+2024-03-17T02:30:27.475Z - info: Using extension text@4.0.0
+2024-03-17T02:30:27.476Z - info: Using extension version-control@4.0.0
+2024-03-17T02:30:27.485Z - info: Using extension assets@4.1.0
+2024-03-17T02:30:27.493Z - info: Using extension authorization@4.0.0
+2024-03-17T02:30:27.495Z - debug: Extension authorization@4.0.0 was disabled
+2024-03-17T02:30:27.495Z - info: Using extension browser-client@4.1.0
+2024-03-17T02:30:27.496Z - info: Using extension chrome-pdf@4.1.0
+2024-03-17T02:30:27.499Z - debug: Chrome strategy is chrome-pool, numberOfWorkers: 1
+2024-03-17T02:30:27.500Z - info: Using extension docx@4.2.0
+2024-03-17T02:30:27.501Z - info: Using extension html-to-xlsx@4.1.1
+2024-03-17T02:30:27.733Z - info: html-to-xlsx detected chrome as available html engine
+2024-03-17T02:30:27.733Z - info: Using extension pptx@4.2.0
+2024-03-17T02:30:27.735Z - info: Using extension scheduling@4.0.0
+2024-03-17T02:30:27.764Z - info: Using extension scripts@4.1.0
+2024-03-17T02:30:27.765Z - info: Using extension static-pdf@4.1.0
+2024-03-17T02:30:27.766Z - info: Using extension studio@4.1.0
+2024-03-17T02:30:27.819Z - info: Using extension xlsx@4.1.0
+2024-03-17T02:30:27.821Z - info: Using extension public-templates@4.0.0
+2024-03-17T02:30:27.822Z - debug: Extension public-templates@4.0.0 was disabled
+2024-03-17T02:30:27.822Z - info: Using extension sample-template@4.0.0
+2024-03-17T02:30:27.823Z - info: Using extension studio-theme-dark@4.0.0
+2024-03-17T02:30:27.824Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2024-03-17T02:30:27.824Z - info: Using memory provider for template store. The saved templates will be lost after restart
+2024-03-17T02:30:27.835Z - debug: studio default theme is: light
+2024-03-17T02:30:27.840Z - info: Creating default express app.
+2024-03-17T02:30:27.854Z - info: jsreport server successfully started on http port: 5488
+2024-03-17T02:30:27.859Z - info: Verifying license key free
+2024-03-17T02:30:27.860Z - info: Using free license
+2024-03-17T02:30:27.872Z - info: Migrating templates chrome settings (waitForNetworkIddle -> waitForNetworkIdle)
+2024-03-17T02:30:27.873Z - info: Migration successful
+2024-03-17T02:30:27.874Z - debug: Creating samples is disabled
+2024-03-17T02:30:27.875Z - info: Initializing worker threads
+2024-03-17T02:30:27.875Z - debug: Extensions in workers: base, child-templates, components, data, express, handlebars, jsrender, localization, npm, pdf-utils, reports, text, version-control, assets, browser-client, chrome-pdf, docx, html-to-xlsx, pptx, scripts, static-pdf, studio, xlsx
+2024-03-17T02:30:28.582Z - info: 2 worker threads initialized in 707ms
+2024-03-17T02:30:28.582Z - info: Starting temp files cleanup with 180000ms threshold
+2024-03-17T02:30:28.583Z - info: reporter initialized
+2024-03-17T02:30:30.524Z - info: Render request 1 queued for execution and waiting for available worker rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:30.576Z - info: Starting rendering request 1 rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:30.576Z - info: Rendering anonymous template { recipe: chrome-pdf, engine: handlebars } rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:30.577Z - debug: Inline data specified. rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:30.577Z - debug: Base url not specified, skipping its injection. rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:30.577Z - debug: Rendering engine handlebars rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:31.020Z - debug: Executing recipe chrome-pdf rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:31.421Z - debug: Converting with chrome Chrome/122.0.6261.111 using chrome-pool strategy rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:33.547Z - debug: Page request: GET (document) file:///tmp/jsreport/autocleanup/c2373827-e0c0-4cb5-9233-492e36b75e09-chrome-pdf.html rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:33.549Z - debug: Page request finished: GET (document) 200 file:///tmp/jsreport/autocleanup/c2373827-e0c0-4cb5-9233-492e36b75e09-chrome-pdf.html rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:33.550Z - debug: Page request: GET (stylesheet) https://fonts.cdnfonts.com/css/poppins rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:33.551Z - debug: Page request: GET (image) https://hablemosdenegocios.pe/wp-content/uploads/2023/08/34153fbba2e2be2797f95221713fb80e7bad468e-3840x2160-min.png rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:33.552Z - debug: Page request: GET (image) https://tienda.casamarket.pe/wp-content/uploads/2023/06/Place-Holder-v2.png rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:33.553Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170804820813960.jpg rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:33.554Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170623390708753.jpg rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:33.555Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170899940157166.jpg rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:33.556Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170839282905710.jpg rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:33.557Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170778960220047.jpg rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:33.559Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170744311453579.jpg rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:33.559Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/DURAZNO90.jpg rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:33.560Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/atrr61_image/atrr61_20610088342/SALMAS-HORNEADAS.png rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:33.561Z - debug: Page request: GET (image) https://firebasestorage.googleapis.com/v0/b/kyte-7c484.appspot.com/o/BiMeoC0bw8S39xYftkGmyXpkXBG2%2F135ef4dc-0aff-48ca-92d1-f3428b6c16a3.jpg?alt=media rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:33.947Z - debug: Page request finished: GET (stylesheet) 200 https://fonts.cdnfonts.com/css/poppins rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:34.047Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:34.048Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:34.050Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:34.051Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:34.051Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:34.052Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:34.151Z - debug: Page request finished: GET (image) 200 https://hablemosdenegocios.pe/wp-content/uploads/2023/08/34153fbba2e2be2797f95221713fb80e7bad468e-3840x2160-min.png rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:34.247Z - debug: Page request finished: GET (image) 200 https://tienda.casamarket.pe/wp-content/uploads/2023/06/Place-Holder-v2.png rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:34.347Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170899940157166.jpg rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:34.448Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:34.449Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170623390708753.jpg rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:34.547Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170744311453579.jpg rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:34.547Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170804820813960.jpg rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:34.548Z - debug: Page request finished: GET (image) 200 https://firebasestorage.googleapis.com/v0/b/kyte-7c484.appspot.com/o/BiMeoC0bw8S39xYftkGmyXpkXBG2%2F135ef4dc-0aff-48ca-92d1-f3428b6c16a3.jpg?alt=media rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:34.548Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/DURAZNO90.jpg rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:34.549Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:34.648Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170839282905710.jpg rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:34.650Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:34.653Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170778960220047.jpg rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:34.847Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/atrr61_image/atrr61_20610088342/SALMAS-HORNEADAS.png rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:34.849Z - debug: Running chrome with params {"timeout":59539,"margin":{},"printBackground":true} rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:36.145Z - debug: Skipping storing report. rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:30:36.145Z - info: Rendering request 1 finished in 5625 ms rootId=k2ynqpuf8hmxmb5, id=k2ynqpuf8hmxmb5
+2024-03-17T02:36:47.343Z - info: Initializing jsreport (version: 4.3.0, configuration file: none, nodejs: 18.16.1)
+2024-03-17T02:36:47.346Z - info: Searching for available extensions in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-17T02:36:47.352Z - info: Extensions location cache contains up to date information, skipping crawling in /home/iesus/Documentos/Projects/generate-catalog/
+2024-03-17T02:36:47.357Z - info: Found 35 extension(s)
+2024-03-17T02:36:47.393Z - debug: Writing extension locations cache to /tmp/jsreport/core/locations.json
+2024-03-17T02:36:47.395Z - debug: Discovered 35 extensions
+2024-03-17T02:36:47.456Z - info: Using extension authentication@4.1.0
+2024-03-17T02:36:47.552Z - debug: Extension authentication@4.1.0 was disabled
+2024-03-17T02:36:47.553Z - info: Using extension base@4.0.0
+2024-03-17T02:36:47.556Z - info: Using extension child-templates@4.1.0
+2024-03-17T02:36:47.556Z - info: Using extension cli@4.0.3
+2024-03-17T02:36:47.558Z - info: Using extension components@4.0.0
+2024-03-17T02:36:47.559Z - info: Using extension data@4.1.0
+2024-03-17T02:36:47.560Z - info: Using extension express@4.1.0
+2024-03-17T02:36:47.680Z - info: Using extension freeze@4.0.0
+2024-03-17T02:36:47.682Z - info: Using extension fs-store@4.0.2
+2024-03-17T02:36:47.750Z - debug: Extension fs-store@4.0.2 was disabled
+2024-03-17T02:36:47.751Z - info: Using extension handlebars@4.0.1
+2024-03-17T02:36:47.752Z - info: Using extension import-export@4.0.3
+2024-03-17T02:36:47.757Z - info: Using extension jsrender@4.0.0
+2024-03-17T02:36:47.758Z - info: Using extension licensing@4.0.2
+2024-03-17T02:36:47.770Z - info: Using extension localization@4.0.1
+2024-03-17T02:36:47.770Z - info: Using extension npm@4.0.0
+2024-03-17T02:36:47.776Z - info: Using extension pdf-utils@4.1.1
+2024-03-17T02:36:47.778Z - info: Using extension reports@4.1.0
+2024-03-17T02:36:47.780Z - info: Using extension tags@4.0.1
+2024-03-17T02:36:47.781Z - info: Using extension text@4.0.0
+2024-03-17T02:36:47.781Z - info: Using extension version-control@4.0.0
+2024-03-17T02:36:47.790Z - info: Using extension assets@4.1.0
+2024-03-17T02:36:47.799Z - info: Using extension authorization@4.0.0
+2024-03-17T02:36:47.802Z - debug: Extension authorization@4.0.0 was disabled
+2024-03-17T02:36:47.802Z - info: Using extension browser-client@4.1.0
+2024-03-17T02:36:47.803Z - info: Using extension chrome-pdf@4.1.0
+2024-03-17T02:36:47.807Z - debug: Chrome strategy is chrome-pool, numberOfWorkers: 1
+2024-03-17T02:36:47.807Z - info: Using extension docx@4.2.0
+2024-03-17T02:36:47.809Z - info: Using extension html-to-xlsx@4.1.1
+2024-03-17T02:36:48.016Z - info: html-to-xlsx detected chrome as available html engine
+2024-03-17T02:36:48.016Z - info: Using extension pptx@4.2.0
+2024-03-17T02:36:48.017Z - info: Using extension scheduling@4.0.0
+2024-03-17T02:36:48.044Z - info: Using extension scripts@4.1.0
+2024-03-17T02:36:48.045Z - info: Using extension static-pdf@4.1.0
+2024-03-17T02:36:48.046Z - info: Using extension studio@4.1.0
+2024-03-17T02:36:48.094Z - info: Using extension xlsx@4.1.0
+2024-03-17T02:36:48.096Z - info: Using extension public-templates@4.0.0
+2024-03-17T02:36:48.096Z - debug: Extension public-templates@4.0.0 was disabled
+2024-03-17T02:36:48.097Z - info: Using extension sample-template@4.0.0
+2024-03-17T02:36:48.098Z - info: Using extension studio-theme-dark@4.0.0
+2024-03-17T02:36:48.099Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2024-03-17T02:36:48.099Z - info: Using memory provider for template store. The saved templates will be lost after restart
+2024-03-17T02:36:48.110Z - debug: studio default theme is: light
+2024-03-17T02:36:48.115Z - info: Creating default express app.
+2024-03-17T02:36:48.129Z - info: jsreport server successfully started on http port: 5488
+2024-03-17T02:36:48.134Z - info: Verifying license key free
+2024-03-17T02:36:48.136Z - info: Using free license
+2024-03-17T02:36:48.146Z - info: Migrating templates chrome settings (waitForNetworkIddle -> waitForNetworkIdle)
+2024-03-17T02:36:48.147Z - info: Migration successful
+2024-03-17T02:36:48.148Z - debug: Creating samples is disabled
+2024-03-17T02:36:48.148Z - info: Initializing worker threads
+2024-03-17T02:36:48.149Z - debug: Extensions in workers: base, child-templates, components, data, express, handlebars, jsrender, localization, npm, pdf-utils, reports, text, version-control, assets, browser-client, chrome-pdf, docx, html-to-xlsx, pptx, scripts, static-pdf, studio, xlsx
+2024-03-17T02:36:48.815Z - info: 2 worker threads initialized in 667ms
+2024-03-17T02:36:48.815Z - info: Starting temp files cleanup with 180000ms threshold
+2024-03-17T02:36:48.816Z - info: reporter initialized
+2024-03-17T02:37:01.884Z - info: Render request 1 queued for execution and waiting for available worker rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:01.933Z - info: Starting rendering request 1 rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:01.934Z - info: Rendering anonymous template { recipe: chrome-pdf, engine: handlebars } rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:01.934Z - debug: Inline data specified. rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:01.934Z - debug: Base url not specified, skipping its injection. rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:01.934Z - debug: Rendering engine handlebars rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:02.364Z - debug: Executing recipe chrome-pdf rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:02.664Z - debug: Converting with chrome Chrome/122.0.6261.111 using chrome-pool strategy rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:04.471Z - debug: Page request: GET (document) file:///tmp/jsreport/autocleanup/92d80707-d25a-46a3-8b33-95584141f6e7-chrome-pdf.html rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:04.473Z - debug: Page request: GET (stylesheet) https://fonts.cdnfonts.com/css/poppins rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:04.474Z - debug: Page request: GET (image) https://hablemosdenegocios.pe/wp-content/uploads/2023/08/34153fbba2e2be2797f95221713fb80e7bad468e-3840x2160-min.png rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:04.475Z - debug: Page request: GET (image) https://tienda.casamarket.pe/wp-content/uploads/2023/06/Place-Holder-v2.png rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:04.476Z - debug: Page request finished: GET (document) 200 file:///tmp/jsreport/autocleanup/92d80707-d25a-46a3-8b33-95584141f6e7-chrome-pdf.html rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:04.477Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170804820813960.jpg rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:04.478Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170623390708753.jpg rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:04.479Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170899940157166.jpg rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:04.480Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170839282905710.jpg rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:04.481Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170778960220047.jpg rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:04.482Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170744311453579.jpg rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:04.483Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/DURAZNO90.jpg rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:04.483Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/atrr61_image/atrr61_20610088342/SALMAS-HORNEADAS.png rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:04.484Z - debug: Page request: GET (image) https://firebasestorage.googleapis.com/v0/b/kyte-7c484.appspot.com/o/BiMeoC0bw8S39xYftkGmyXpkXBG2%2F135ef4dc-0aff-48ca-92d1-f3428b6c16a3.jpg?alt=media rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:04.871Z - debug: Page request finished: GET (stylesheet) 200 https://fonts.cdnfonts.com/css/poppins rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:04.871Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:04.872Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:04.872Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:04.872Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:04.872Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:04.873Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:05.072Z - debug: Page request finished: GET (image) 200 https://tienda.casamarket.pe/wp-content/uploads/2023/06/Place-Holder-v2.png rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:05.173Z - debug: Page request finished: GET (image) 200 https://hablemosdenegocios.pe/wp-content/uploads/2023/08/34153fbba2e2be2797f95221713fb80e7bad468e-3840x2160-min.png rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:05.373Z - debug: Page request finished: GET (image) 200 https://firebasestorage.googleapis.com/v0/b/kyte-7c484.appspot.com/o/BiMeoC0bw8S39xYftkGmyXpkXBG2%2F135ef4dc-0aff-48ca-92d1-f3428b6c16a3.jpg?alt=media rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:05.375Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:05.473Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170778960220047.jpg rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:05.474Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170899940157166.jpg rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:05.474Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:05.475Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170623390708753.jpg rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:05.573Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:05.574Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170744311453579.jpg rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:05.574Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170804820813960.jpg rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:05.575Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/DURAZNO90.jpg rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:05.673Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170839282905710.jpg rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:05.874Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/atrr61_image/atrr61_20610088342/SALMAS-HORNEADAS.png rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:05.875Z - debug: Running chrome with params {"timeout":59566,"margin":{},"printBackground":true} rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:07.182Z - debug: Skipping storing report. rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:07.182Z - info: Rendering request 1 finished in 5300 ms rootId=y4mhl7hdltrzsfu, id=y4mhl7hdltrzsfu
+2024-03-17T02:37:26.280Z - info: Render request 2 queued for execution and waiting for available worker rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:26.319Z - info: Starting rendering request 2 rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:26.319Z - info: Rendering anonymous template { recipe: chrome-pdf, engine: handlebars } rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:26.319Z - debug: Inline data specified. rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:26.319Z - debug: Base url not specified, skipping its injection. rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:26.319Z - debug: Rendering engine handlebars rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:26.733Z - debug: Executing recipe chrome-pdf rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:26.932Z - debug: Converting with chrome Chrome/122.0.6261.111 using chrome-pool strategy rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:28.838Z - debug: Page request: GET (document) file:///tmp/jsreport/autocleanup/734d0674-2acb-402b-9b14-f822046b379f-chrome-pdf.html rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:28.939Z - debug: Page request: GET (stylesheet) https://fonts.cdnfonts.com/css/poppins rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:28.940Z - debug: Page request: GET (image) https://hablemosdenegocios.pe/wp-content/uploads/2023/08/34153fbba2e2be2797f95221713fb80e7bad468e-3840x2160-min.png rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:28.940Z - debug: Page request finished: GET (document) 200 file:///tmp/jsreport/autocleanup/734d0674-2acb-402b-9b14-f822046b379f-chrome-pdf.html rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:28.941Z - debug: Page request: GET (image) https://tienda.casamarket.pe/wp-content/uploads/2023/06/Place-Holder-v2.png rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:28.941Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170804820813960.jpg rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:28.942Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170623390708753.jpg rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:28.942Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170899940157166.jpg rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:28.942Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170839282905710.jpg rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:28.943Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170778960220047.jpg rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:28.943Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170744311453579.jpg rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:28.944Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/DURAZNO90.jpg rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:28.944Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/atrr61_image/atrr61_20610088342/SALMAS-HORNEADAS.png rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:28.944Z - debug: Page request: GET (image) https://firebasestorage.googleapis.com/v0/b/kyte-7c484.appspot.com/o/BiMeoC0bw8S39xYftkGmyXpkXBG2%2F135ef4dc-0aff-48ca-92d1-f3428b6c16a3.jpg?alt=media rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:29.240Z - debug: Page request finished: GET (stylesheet) 200 https://fonts.cdnfonts.com/css/poppins rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:29.240Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:29.240Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:29.240Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:29.240Z - debug: Page request finished: GET (image) 200 https://hablemosdenegocios.pe/wp-content/uploads/2023/08/34153fbba2e2be2797f95221713fb80e7bad468e-3840x2160-min.png rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:29.240Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:29.240Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:29.241Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:29.441Z - debug: Page request finished: GET (image) 200 https://tienda.casamarket.pe/wp-content/uploads/2023/06/Place-Holder-v2.png rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:29.641Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170778960220047.jpg rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:29.642Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170899940157166.jpg rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:29.741Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:29.742Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170623390708753.jpg rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:29.842Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/DURAZNO90.jpg rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:29.843Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:29.843Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170744311453579.jpg rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:29.844Z - debug: Page request finished: GET (image) 200 https://firebasestorage.googleapis.com/v0/b/kyte-7c484.appspot.com/o/BiMeoC0bw8S39xYftkGmyXpkXBG2%2F135ef4dc-0aff-48ca-92d1-f3428b6c16a3.jpg?alt=media rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:29.844Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170804820813960.jpg rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:29.844Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:29.844Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170839282905710.jpg rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:30.043Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/atrr61_image/atrr61_20610088342/SALMAS-HORNEADAS.png rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:30.043Z - debug: Running chrome with params {"timeout":59603,"margin":{},"printBackground":true} rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:30.994Z - debug: Skipping storing report. rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T02:37:30.995Z - info: Rendering request 2 finished in 4715 ms rootId=s5gr535ak17xzmn, id=s5gr535ak17xzmn
+2024-03-17T03:09:52.657Z - info: Render request 3 queued for execution and waiting for available worker rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.673Z - info: Starting rendering request 3 rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.674Z - info: Rendering anonymous template { recipe: chrome-pdf, engine: handlebars } rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.674Z - debug: Inline data specified. rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.674Z - debug: Base url not specified, skipping its injection. rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.674Z - debug: Rendering engine handlebars rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.690Z - debug: Executing recipe chrome-pdf rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.791Z - debug: Converting with chrome Chrome/122.0.6261.111 using chrome-pool strategy rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.791Z - debug: Page request: GET (document) file:///tmp/jsreport/autocleanup/6d6d2bfe-3b96-403b-ac84-9d217e1230be-chrome-pdf.html rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.791Z - debug: Page request: GET (stylesheet) https://fonts.cdnfonts.com/css/poppins rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.792Z - debug: Page request: GET (image) https://hablemosdenegocios.pe/wp-content/uploads/2023/08/34153fbba2e2be2797f95221713fb80e7bad468e-3840x2160-min.png rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.792Z - debug: Page request: GET (image) https://tienda.casamarket.pe/wp-content/uploads/2023/06/Place-Holder-v2.png rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.792Z - debug: Page request finished: GET (document) 200 file:///tmp/jsreport/autocleanup/6d6d2bfe-3b96-403b-ac84-9d217e1230be-chrome-pdf.html rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.792Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170804820813960.jpg rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.792Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170623390708753.jpg rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.792Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170899940157166.jpg rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.793Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170839282905710.jpg rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.793Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170778960220047.jpg rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.793Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170744311453579.jpg rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.793Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/DURAZNO90.jpg rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.793Z - debug: Page request: GET (image) https://quipu-static.s3.amazonaws.com/atrr61_image/atrr61_20610088342/SALMAS-HORNEADAS.png rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.793Z - debug: Page request: GET (image) https://firebasestorage.googleapis.com/v0/b/kyte-7c484.appspot.com/o/BiMeoC0bw8S39xYftkGmyXpkXBG2%2F135ef4dc-0aff-48ca-92d1-f3428b6c16a3.jpg?alt=media rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.793Z - debug: Page request finished: GET (stylesheet) 200 https://fonts.cdnfonts.com/css/poppins rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.793Z - debug: Page request finished: GET (image) 200 https://hablemosdenegocios.pe/wp-content/uploads/2023/08/34153fbba2e2be2797f95221713fb80e7bad468e-3840x2160-min.png rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.793Z - debug: Page request finished: GET (image) 200 https://tienda.casamarket.pe/wp-content/uploads/2023/06/Place-Holder-v2.png rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.793Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.794Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.794Z - debug: Page request: GET (font) https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.794Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170804820813960.jpg rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.794Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170623390708753.jpg rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.794Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170899940157166.jpg rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.794Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170839282905710.jpg rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.794Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170778960220047.jpg rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.794Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/signature_170744311453579.jpg rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.794Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/CASA001_image/CASA001/DURAZNO90.jpg rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.794Z - debug: Page request finished: GET (image) 200 https://quipu-static.s3.amazonaws.com/atrr61_image/atrr61_20610088342/SALMAS-HORNEADAS.png rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.794Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Bold.woff rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.794Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Black.woff rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:52.795Z - debug: Page request finished: GET (font) 200 https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:53.292Z - debug: Page request finished: GET (image) 200 https://firebasestorage.googleapis.com/v0/b/kyte-7c484.appspot.com/o/BiMeoC0bw8S39xYftkGmyXpkXBG2%2F135ef4dc-0aff-48ca-92d1-f3428b6c16a3.jpg?alt=media rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:53.293Z - debug: Running chrome with params {"timeout":59959,"margin":{},"printBackground":true} rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:54.543Z - debug: Skipping storing report. rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf
+2024-03-17T03:09:54.544Z - info: Rendering request 3 finished in 1893 ms rootId=2gstj98rmm3suuf, id=2gstj98rmm3suuf

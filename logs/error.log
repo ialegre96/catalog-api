@@ -1,0 +1,117 @@
+2024-03-14T05:49:40.347Z - error: Error occurred during reporter init: Error: Error when loading extension express@2.8.1
+Error: Extension "express" is not compatible with "core" extension. Missing ".requires" information in "express" definition
+    at validateMinimalVersion (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/validateMinimalVersion.js:24:11)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:158:9)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:207:36)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:248:15)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:207:36)
+2024-03-14T11:44:10.216Z - error: Error occurred during reporter init: Error: Error when loading extension express@2.8.1
+Error: Extension "express" is not compatible with "core" extension. Missing ".requires" information in "express" definition
+    at validateMinimalVersion (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/validateMinimalVersion.js:24:11)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:158:9)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:207:36)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:248:15)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:207:36)
+2024-03-14T11:48:57.230Z - error: Error occurred during reporter init: Error: Error when loading extension express@2.8.1
+Error: Extension "express" is not compatible with "core" extension. Missing ".requires" information in "express" definition
+    at validateMinimalVersion (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/validateMinimalVersion.js:24:11)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:158:9)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:207:36)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:248:15)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:207:36)
+2024-03-14T11:52:56.662Z - error: Error occurred during reporter init: Error: Error when loading extension express@2.8.1
+Error: Extension "express" is not compatible with "core" extension. Missing ".requires" information in "express" definition
+    at validateMinimalVersion (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/validateMinimalVersion.js:24:11)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:158:9)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:207:36)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:248:15)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:207:36)
+2024-03-14T12:00:33.754Z - error: Error occurred during reporter init: Error: Error when loading extension phantom-pdf@2.6.1
+Error: Extension "phantom-pdf" is not compatible with "core" extension. Missing ".requires" information in "phantom-pdf" definition
+    at validateMinimalVersion (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/validateMinimalVersion.js:24:11)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:158:9)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at async MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:207:7)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:248:15)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at async MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:207:7)
+2024-03-14T12:06:20.127Z - error: Error occurred during reporter init: Error: Error when loading extension phantom-pdf@2.6.1
+Error: Extension "phantom-pdf" is not compatible with "core" extension. Missing ".requires" information in "phantom-pdf" definition
+    at validateMinimalVersion (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/validateMinimalVersion.js:24:11)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:158:9)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at async MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:207:7)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:248:15)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at async MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:207:7)
+2024-03-14T12:09:55.289Z - error: Error when processing render request 1
+(because) cannot read properties of undefined (reading 'getBuffer')
+TypeError: Cannot read properties of undefined (reading 'getBuffer')
+  at module.exports (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-phantom-pdf/lib/recipe.js:50:39)
+  at Object.execute (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-phantom-pdf/lib/worker.js:10:47)
+  at invokeRender (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:94:18)
+  at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+  at async WorkerReporter._render (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:142:7)
+  at async /home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/worker/reporter.js:224:19
+  at async processAndResponse (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/advanced-workers/lib/workerHandler.js:41:17) rootId=2d5kr1a2uix18sv, id=2d5kr1a2uix18sv
+2024-03-14T12:09:55.290Z - error: Rendering request 1 finished with error in 495 ms rootId=2d5kr1a2uix18sv, id=2d5kr1a2uix18sv
+2024-03-14T12:18:06.376Z - error: Error when processing render request 1
+(because) cannot read properties of undefined (reading 'getBuffer')
+TypeError: Cannot read properties of undefined (reading 'getBuffer')
+  at module.exports (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-phantom-pdf/lib/recipe.js:50:39)
+  at Object.execute (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-phantom-pdf/lib/worker.js:10:47)
+  at invokeRender (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:94:18)
+  at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+  at async WorkerReporter._render (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/worker/render/render.js:142:7)
+  at async /home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/worker/reporter.js:224:19
+  at async processAndResponse (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/advanced-workers/lib/workerHandler.js:41:17) rootId=dffsijf6hfayi32, id=dffsijf6hfayi32
+2024-03-14T12:18:06.376Z - error: Rendering request 1 finished with error in 488 ms rootId=dffsijf6hfayi32, id=dffsijf6hfayi32
+2024-03-17T02:17:22.514Z - error: Error occurred during reporter init: Error: Error when loading extension handlebars@2.1.0
+Error: Extension "handlebars" is not compatible with "core" extension. Missing ".requires" information in "handlebars" definition
+    at validateMinimalVersion (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/validateMinimalVersion.js:24:11)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:158:9)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:206:36)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:248:15)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:206:36)
+2024-03-17T02:18:05.969Z - error: Error occurred during reporter init: Error: Error when loading extension handlebars@2.1.0
+Error: Extension "handlebars" is not compatible with "core" extension. Missing ".requires" information in "handlebars" definition
+    at validateMinimalVersion (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/validateMinimalVersion.js:24:11)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:158:9)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:206:36)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:248:15)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:206:36)
+2024-03-17T02:18:49.339Z - error: Error occurred during reporter init: Error: Error when loading extension handlebars@2.1.0
+Error: Extension "handlebars" is not compatible with "core" extension. Missing ".requires" information in "handlebars" definition
+    at validateMinimalVersion (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/validateMinimalVersion.js:24:11)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:158:9)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:206:36)
+    at Object._useOne (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:248:15)
+    at Object._useMany (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:99:38)
+    at Object.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/extensions/extensionsManager.js:74:19)
+    at MainReporter.init (/home/iesus/Documentos/Projects/generate-catalog/node_modules/@jsreport/jsreport-core/lib/main/reporter.js:206:36)
